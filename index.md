@@ -1,6 +1,6 @@
 <style>
   body          { margin:40px; background-color:lightskyblue;}
-  a:link        { color: green; }
+  a:link        { color: green; text-decoration: underline; }
   a:visited     { color: black; }
   a:hover       { color: blue; }
   a:active      { color: fuchsia; }
@@ -27,6 +27,7 @@ img[alt=tonomoshia_logo] { width: 60%; border: none; background: none; display: 
 - Find me on [GoDaddy Pro][15]. _If you’re into that sort of thing._
 - Find me on [Instagram][16]. _Do it for the gram._
 - Find me on [OnUniverse][17]. _I don’t know why you would, though._
+- Find me on [CodeCademy][23]. _Everybody loves badges._
 
 ## About me
 
@@ -75,3 +76,5 @@ A more formal listing of my work history is on my [resume][1].
 [20]: https://www.linkedin.com/company/wordcamp-miami/ "WordCamp Miami LinkedIn page"
 [21]: https://www.meetup.com/members/12462507/ "My Meetup profile"
 [22]: https://www.freecodecamp.org/tonomoshia "My FreeCodeCamp profile"
+[23]: https://www.codecademy.com/users/tonomoshia/achievements "CodeCademy badegs"
+]
