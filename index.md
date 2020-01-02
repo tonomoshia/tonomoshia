@@ -1,10 +1,13 @@
 <style>
-  body          { margin:40px; color:#333; background-color:lightskyblue;}
-  a             { color: green;}
+  body          { margin:40px; background-color:lightskyblue;}
+  a:link        { color: green; }
   a:visited     { color: black; }
+  a:hover       { color: blue; }
+  a:active      { color: fuchsia; }
   code          { background-color: #f8f8f8; padding:5px;}
-  li            { margin:5px; }
-  p             {margin:30px 0;}
+  li            { margin:5px; color: #000; font-family: Arial;}
+  p             {margin:30px 0; color: #000; font-family: Arial;}
+  h1, h2, h3, h4, h5, h6            { color: dodgerblue; font-family: Arial;}
 img[alt=Photo-by-insung-yoon-on-Unsplash] { width: 60%; border: none; background: none; display: block; margin-left: auto; margin-right: auto;}
 img[alt=tonomoshia_logo] { width: 60%; border: none; background: none; display: block; margin-left: auto; margin-right: auto;}
 </style>
@@ -33,7 +36,7 @@ I have also been a paralegal for 18 years. I have a Bachelor's degree in Mass Co
 
 I also really love [Zumba][3]!
 
-I am a self-taught developer. I worked through [FreeCodeCamp][22], Sitepoint, Skillcrush and Coursera, Udemy and Udacity to learn about web development.
+I am a self-taught developer. I worked through [FreeCodeCamp][22], Sitepoint, Skillcrush, Coursera, Udemy,  Udacity, and Lynda (now LinkedIn Learning) to learn about web development.
 
 I have been attending [Meetups][21] for Agile, Coding, and Wordpress and have met a lot of really cool people as well as learned interesting things about the industry. My favorite Meetups are [South Florida Women in Agile][19] and [South Florida Wordpress Meetup][18].
 
