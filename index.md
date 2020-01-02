@@ -1,9 +1,9 @@
 <style>
-  body          { margin:40px; background-color:lightskyblue;}
+  body          { margin:40px; }
   a:link        { color: green; text-decoration: underline; }
-  a:visited     { color: black; }
-  a:hover       { color: blue; }
-  a:active      { color: fuchsia; }
+  a:visited     { color: black; text-decoration: underline; }
+  a:hover       { color: blue; text-decoration: underline; }
+  a:active      { color: fuchsia; text-decoration: underline;}
   code          { background-color: #f8f8f8; padding:5px;}
   li            { margin:5px; color: #000; font-family: Arial;}
   p             {margin:30px 0; color: #000; font-family: Arial;}
