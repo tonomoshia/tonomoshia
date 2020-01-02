@@ -37,7 +37,7 @@ I have also been a paralegal for 18 years. I have a Bachelor's degree in Mass Co
 
 I also really love [Zumba][3]!
 
-I am a self-taught developer. I worked through [FreeCodeCamp][22], Sitepoint, Skillcrush, Coursera, Udemy,  Udacity, and Lynda (now LinkedIn Learning) to learn about web development.
+I am a self-taught developer. I have worked through [FreeCodeCamp][22], Sitepoint, [Skillcrush][24], [Coursera][26], [Udemy][25],  [Udacity][27], and [Lynda (now LinkedIn Learning)][28] to learn about web development.
 
 I have been attending [Meetups][21] for Agile, Coding, and Wordpress and have met a lot of really cool people as well as learned interesting things about the industry. My favorite Meetups are [South Florida Women in Agile][19] and [South Florida Wordpress Meetup][18].
 
@@ -77,4 +77,8 @@ A more formal listing of my work history is on my [resume][1].
 [21]: https://www.meetup.com/members/12462507/ "My Meetup profile"
 [22]: https://www.freecodecamp.org/tonomoshia "My FreeCodeCamp profile"
 [23]: https://www.codecademy.com/users/tonomoshia/achievements "CodeCademy badegs"
-]
+[24]: https://www.skillcrush.com "Skillcrush"
+[25]: https://www.udemy.com "Udemy"
+[26]: https://www.coursera.org "Coursera"
+[27]: https://www.udacity.com "Udacity"
+[28]: https://www.linkedin.com/learning/ "LinkedIn Learning"
