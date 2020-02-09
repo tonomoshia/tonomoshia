@@ -45,7 +45,7 @@ I have been an organizer for [WordCamp Miami][20] since Fall 2017. I have really
 
 See what I have been doing with WordPress and WordCamp on my [WordPress Professional Network page][2].
 
-A more formal listing of my work history is on my [resume][1].
+Connect with me on [LinkedIn][1] for a more formal listing of my work history.
 
 ![Photo-by-insung-yoon-on-Unsplash](https://tonomoshia.keybase.pub/insung-yoon-YWS9jxfkYTw-unsplash.jpg)
 
@@ -54,7 +54,7 @@ A more formal listing of my work history is on my [resume][1].
 © Tonomohsia 2020
 
 
-[1]: linkedin_resume_2020.pdf "LinkedIn Resune 2020"
+[1]: https://linkedin.com/in/reiher "LinkedIn"
 [2]: https://jetpack.pro/profile/tonomoshia/ "WordPress Professional Network profile page"
 [3]: elizabethreiher.zumba.com/ "Elizabeth Reiher on Zumba.com"
 [4]: https://www.launchcode.org/ "LaunchCode"
