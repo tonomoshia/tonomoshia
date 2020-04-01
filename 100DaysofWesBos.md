@@ -57,3 +57,5 @@ Plan: [**Command Line Power User**][8]. Looking forward to _"Getting the Most Ou
 [11]: https://wesbos.com/
 [12]: https://twitter.com/wesbos
 [13]: https://www.100daysofcode.com/
+[14]: bit.ly/100DaysOfWesBos
+
