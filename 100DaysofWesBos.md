@@ -43,6 +43,7 @@ Started and finished [**Mastering Markdown**][1]. I know and love Markdown but I
 ### Day 2 - 04.01.2020
 Plan: [**Command Line Power User**][8]. Looking forward to _"Getting the Most Out of ZSH with Plugins"_. While I use Oh My Zsh, I didn't know there were plugins for ZSH. This one is about 75 minutes long so one lunch hour won't do it.
 
+Actual: Went through 6/11 of the videos of [**Command Line Power User**][8]. Didn't get to my favorite part yet, but that just means something to look forward to. Discovered [iTerm2 themes][17], [ZSH themes][16] and [Powerline fonts][15]. Git is more fun when it's color-coded and readable. 
 
 [1]: http://masteringmarkdown.com/
 [2]: https://learnnode.com/
@@ -58,4 +59,7 @@ Plan: [**Command Line Power User**][8]. Looking forward to _"Getting the Most Ou
 [12]: https://twitter.com/wesbos
 [13]: https://www.100daysofcode.com/
 [14]: bit.ly/100DaysOfWesBos
+[15]: https://github.com/powerline/fonts
+[16]: https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
+[17]: https://iterm2colorschemes.com/
 
