@@ -68,6 +68,8 @@ Found this list of [awesome ZSH frameworks, plugins, themes and tutorials][20].
 
 Also _forgot to eat my lunch and had to eat at my desk after lunch_. Oops.
 
+### Day 4 - 04.02.2020
+Plan: Start Flexbox.io. Should be able to get through 4/20 videos. 
 
 [1]: http://masteringmarkdown.com/
 [2]: https://learnnode.com/
