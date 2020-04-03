@@ -45,6 +45,30 @@ Plan: [**Command Line Power User**][8]. Looking forward to _"Getting the Most Ou
 
 Actual: Went through 6/11 of the videos of [**Command Line Power User**][8]. Didn't get to my favorite part yet, but that just means something to look forward to. Discovered [iTerm2 themes][17], [ZSH themes][16] and [Powerline fonts][15]. Git is more fun when it's color-coded and readable. 
 
+### Day 3 - 04.01.2020
+Plan: Finish [**Command Line Power User**][8].
+
+Actual: I did finish [**Command Line Power User**][8]. Learned so many tips and tricks that are possible with ZSH. Like ```take``` instead of separate ```mkdir``` and ```cd``` commandds. Like advanced history commands with one word and tab or control r. Really neat. The trick is to use them so I don't forget them. 
+
+[ZSH plugins][18] extend the functionality and features of ZSH. So the ones I tried: 
+- node 
+- npm 
+- common-aliases
+- extract 
+- git-prompt
+- github
+
+The [z][19] is not working so hot for me right now, so I will leave that for now. 
+
+Learned the reasons to use ```trash``` instead of ```rm```. Only possible if you use ZSH instead of bash, I believe. Installable by npm with this command line: ```npm install --global trash-cli```. Literally **awesome**. Find [trash on npm][21]
+
+Then add ```alias rm=trash``` to your .zshrc to reduce typing & safely trash 
+
+Found this list of [awesome ZSH frameworks, plugins, themes and tutorials][20].
+
+Also _forgot to eat my lunch and had to eat at my desk after lunch_. Oops.
+
+
 [1]: http://masteringmarkdown.com/
 [2]: https://learnnode.com/
 [3]: https://javascript30.com/
@@ -62,4 +86,7 @@ Actual: Went through 6/11 of the videos of [**Command Line Power User**][8]. Did
 [15]: https://github.com/powerline/fonts
 [16]: https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 [17]: https://iterm2colorschemes.com/
-
+[18]: https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins
+[19]: https://github.com/rupa/z/
+[20]: https://github.com/unixorn/awesome-zsh-plugins
+[21]: https://www.npmjs.com/package/trash-cli
