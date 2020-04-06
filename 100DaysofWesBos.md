@@ -45,7 +45,7 @@ Plan: [**Command Line Power User**][8]. Looking forward to _"Getting the Most Ou
 
 Actual: Went through 6/11 of the videos of [**Command Line Power User**][8]. Didn't get to my favorite part yet, but that just means something to look forward to. Discovered [iTerm2 themes][17], [ZSH themes][16] and [Powerline fonts][15]. Git is more fun when it's color-coded and readable. 
 
-### Day 3 - 04.01.2020
+### Day 3 - 04.02.2020
 Plan: Finish [**Command Line Power User**][8].
 
 Actual: I did finish [**Command Line Power User**][8]. Learned so many tips and tricks that are possible with ZSH. Like ```take``` instead of separate ```mkdir``` and ```cd``` commandds. Like advanced history commands with one word and tab or control r. Really neat. The trick is to use them so I don't forget them. 
@@ -68,8 +68,19 @@ Found this list of [awesome ZSH frameworks, plugins, themes and tutorials][20].
 
 Also _forgot to eat my lunch and had to eat at my desk after lunch_. Oops.
 
-### Day 4 - 04.02.2020
+### Day 4 - 04.03.2020
 Plan: Start Flexbox.io. Should be able to get through 4/20 videos. 
+
+### Day 4 - 04.04.2020
+Attended Remote Control Summit Day 1. 
+
+Completed 4/20 videos from [Flexbox.io][7] 
+
+(Couldn't do yesterday as I skipped lunch hour to make up for the time missed for my a.m. doctor appointment. Our boss bought the office at lunch and I ate at my desk and worked through lunch. (Thanks boss!) No free time at home.)
+
+- [Github page about What The Flexbox][22]
+
+
 
 [1]: http://masteringmarkdown.com/
 [2]: https://learnnode.com/
@@ -92,3 +103,4 @@ Plan: Start Flexbox.io. Should be able to get through 4/20 videos.
 [19]: https://github.com/rupa/z/
 [20]: https://github.com/unixorn/awesome-zsh-plugins
 [21]: https://www.npmjs.com/package/trash-cli
+[22]: https://herminiotorres.github.io/whattheflexbox/
