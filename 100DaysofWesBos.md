@@ -72,7 +72,7 @@ Also _forgot to eat my lunch and had to eat at my desk after lunch_. Oops.
 Plan: Start Flexbox.io. Should be able to get through 4/20 videos. 
 
 ### Day 4 - 04.04.2020
-Attended Remote Control Summit Day 1. 
+Attended [Remote Control Summit][23] Day 1. 
 
 Completed 4/20 videos from [Flexbox.io][7] 
 
@@ -80,6 +80,9 @@ Completed 4/20 videos from [Flexbox.io][7]
 
 - [Github page about What The Flexbox][22]
 
+### 04.05.2020
+
+Attended [Remote Control Summit][23] Day 2. 
 
 
 [1]: http://masteringmarkdown.com/
@@ -104,3 +107,4 @@ Completed 4/20 videos from [Flexbox.io][7]
 [20]: https://github.com/unixorn/awesome-zsh-plugins
 [21]: https://www.npmjs.com/package/trash-cli
 [22]: https://herminiotorres.github.io/whattheflexbox/
+[23]: https://remote-control-summit.heysummit.com/
