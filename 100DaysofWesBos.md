@@ -69,7 +69,7 @@ Found this list of [awesome ZSH frameworks, plugins, themes and tutorials][20].
 Also _forgot to eat my lunch and had to eat at my desk after lunch_. Oops.
 
 ### Day 4 - 04.03.2020
-Plan: Start Flexbox.io. Should be able to get through 4/20 videos. 
+**Plan:** Start Flexbox.io. Should be able to get through 4/20 videos. 
 
 ### Day 4 - 04.04.2020
 Attended [Remote Control Summit][23] Day 1. 
@@ -91,6 +91,9 @@ Completed section on alignment (videos 6, 7, 8, and 9). Aligning with ```justify
 Referred us to this great resource: [CSS Tricks Explainer][24].
 
 And, I found this one: [Article from WPMUDev about Flexbox in WordPress][25] .
+
+### Day 6 - 04.08.2020
+**Plan:** Get through videos 10, 11, 12, and 13 about ```flex``` property with  ```flex-grow```, ```flex-shrink```, ```flex-basis``` and wrapping along with cross-browser support and using autoprefixers to fill in gaps in browser support. 
 
 
 [1]: http://masteringmarkdown.com/
