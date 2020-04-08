@@ -84,6 +84,14 @@ Completed 4/20 videos from [Flexbox.io][7]
 
 Attended [Remote Control Summit][23] Day 2. 
 
+### Day 5 - 04.07.2020
+
+Completed section on alignment (videos 6, 7, 8, and 9). Aligning with ```justify-content```, ```align-items```, ```align-self```, and ```align-content```. More clarity on main axis and cross-axis.
+
+Referred us to this great resource: [CSS Tricks Explainer][24].
+
+And, I found this one: [Article from WPMUDev about Flexbox in WordPress][25] .
+
 
 [1]: http://masteringmarkdown.com/
 [2]: https://learnnode.com/
@@ -108,3 +116,5 @@ Attended [Remote Control Summit][23] Day 2.
 [21]: https://www.npmjs.com/package/trash-cli
 [22]: https://herminiotorres.github.io/whattheflexbox/
 [23]: https://remote-control-summit.heysummit.com/
+[24]: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+[25]: https://premium.wpmudev.org/blog/css-flexbox
