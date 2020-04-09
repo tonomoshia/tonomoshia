@@ -95,6 +95,8 @@ And, I found this one: [Article from WPMUDev about Flexbox in WordPress][25] .
 ### Day 6 - 04.08.2020
 Completed videos 10, 11, 12, and 13 about ```flex``` property with  ```flex-grow```, ```flex-shrink```, ```flex-basis``` and wrapping along with cross-browser support and using autoprefixers to fill in gaps in browser support. 
 
+### Day 7 - 04.09.2020
+Completed [Flexbox.io][7] videos 14 and 15 about  making navigation menus and handling mobile re-ordering with flexbox. 
 
 [1]: http://masteringmarkdown.com/
 [2]: https://learnnode.com/
