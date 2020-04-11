@@ -98,6 +98,13 @@ Completed videos 10, 11, 12, and 13 about ```flex``` property with  ```flex-grow
 ### Day 7 - 04.09.2020
 Completed [Flexbox.io][7] videos 14 and 15 about  making navigation menus and handling mobile re-ordering with flexbox. 
 
+### Day 8 - 04.11.2020
+Completeted 4 sections of Javascript curriculum that [LaunchCode][27] is planning to use for their next cohort in my area. Did a [Focusmate][26] session for the first time. It's an accountability buddy app and it did keep me planted in my chair for the entire 50 minutes so I guess you could say it worked. I did not wander the internet for other topics either because I told my buddy for the day, James, _I was intending to get through 4 or 5 sections_ and I didn't want to tell him I didn't at the end. So I did get through to section 4.4 during the session and continued after it was done.  
+
+[Exercise completed for section 4.8][28]
+
+[Studio completed for section 4.9][29]
+
 [1]: http://masteringmarkdown.com/
 [2]: https://learnnode.com/
 [3]: https://javascript30.com/
@@ -123,3 +130,7 @@ Completed [Flexbox.io][7] videos 14 and 15 about  making navigation menus and ha
 [23]: https://remote-control-summit.heysummit.com/
 [24]: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 [25]: https://premium.wpmudev.org/blog/css-flexbox
+[26]: https://www.focusmate.com/
+[27]: https://www.launchcode.org/
+[28]: https://repl.it/@tonomoshia1/Exercises-Data-and-Variables
+[29]: https://repl.it/@tonomoshia1/Studio-Data-and-Variables
