@@ -105,6 +105,8 @@ Completeted 4 sections of Javascript curriculum that [LaunchCode][27] is plannin
 
 [Studio completed for section 4.9][29]
 
+Continuing with [Flexbox.io][7] with videos 16 and 17.
+
 [1]: http://masteringmarkdown.com/
 [2]: https://learnnode.com/
 [3]: https://javascript30.com/
