@@ -47,6 +47,8 @@ See what I have been doing with WordPress and WordCamp on my [WordPress Professi
 
 Connect with me on [LinkedIn][1] for a more formal listing of my work history.
 
+Check out what I am doing nowadays on [100 Days of Wes Bos][29].
+
 ![Photo-by-insung-yoon-on-Unsplash](https://tonomoshia.keybase.pub/insung-yoon-YWS9jxfkYTw-unsplash.jpg)
 
 ## Enjoy your day!
@@ -82,3 +84,4 @@ Connect with me on [LinkedIn][1] for a more formal listing of my work history.
 [26]: https://www.coursera.org "Coursera"
 [27]: https://www.udacity.com "Udacity"
 [28]: https://www.linkedin.com/learning/ "LinkedIn Learning"
+[29]: https://t.co/eT6LmikBTX
