@@ -105,7 +105,43 @@ Completeted 4 sections of Javascript curriculum that [LaunchCode][27] is plannin
 
 [Studio completed for section 4.9][29]
 
-Continuing with [Flexbox.io][7] with videos 16 and 17.
+Continuing with [Flexbox.io][7] with videos 16 and 17. Nested Flexbox really blew my mind. I don't remember them mentioninig this in [freecodecamp][32].
+
+### Day 9 - 04.14.2020
+
+Finished [Flexbox.io][7] tonight: 
+
+- Video #18: Equal height columns and leftover elements  
+- Video #19: Flexbox single line form (more nested Flexbox!)
+- Video #20: Create a mobile app layout with Flexbox (more nested Flexbox --seeing a theme!)
+
+The last video also mentions and shows us [how Flexbox is used in React Active][37]. Pretty cool and I will keep that in my back pocket for later. 
+
+It just works! (Really!) 
+
+Two cool websites Wes Bos has showed us:
+
+ - [lorempixel][33] random image generator for your website in the size you specify. basically a lorem ipsum for photos instead of text. i found a few other [placeholder image][34] sites while i was looking including [lorem picsum][36] (so clever!).
+ - [coverr][34] same thing but with video and not random. you pick them. free stock video footage.  try it out. they've even got a great selection of Zoom virtual backgrounds for these trying times.
+
+ _The best thing to come out of this: I am finally understanding what that [monster Flexbox post on CSSTricks][24] is all about._ Show *and* tell.
+ 
+The learning part[Section 5][31] of the Launchcode [Javascript curriculum][30]: Making Decisions with Conditionals which goes from 5.1.1 to 5.5.1. Tonight I completed right before bed.	
+
+### Day 10 - 04.14.2020
+
+**Plan:** 
+
+- Start [CSS Grid][6] at lunch
+- The working part (exercies and studio so 5.6 and 5.7) of  [Section 5][31] of the Launchcode [Javascript curriculum][30]: Making Decisions with Conditionals
+	- [Exercises in 5.6][38] with conditionals
+		- add link to repl.it link for exercieses 1 and 2
+		- add link to repl.it for exercises 3 and 4
+	- [Studio in 5.7][39] about goal setting and having the right mindset.
+- Attend Zoom meetup about the [LaunchCode][27] beta [JavaScript Curriculum][30] after work before my little one gets home from Daddy's house. 
+
+<hr>
+Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Reiher](https://elizabethreiher.com)
 
 [1]: http://masteringmarkdown.com/
 [2]: https://learnnode.com/
@@ -136,3 +172,14 @@ Continuing with [Flexbox.io][7] with videos 16 and 17.
 [27]: https://www.launchcode.org/
 [28]: https://repl.it/@tonomoshia1/Exercises-Data-and-Variables
 [29]: https://repl.it/@tonomoshia1/Studio-Data-and-Variables
+[30]: https://education.launchcode.org/intro-to-professional-web-dev/
+[31]: https://education.launchcode.org/intro-to-professional-web-dev/chapters/booleans-and-conditionals/booleans.html
+[32]: https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/
+[33]: http://lorempixel.com
+[34]: https://coverr.co
+[35]: https://loremipsum.io/21-of-the-best-placeholder-image-generators/
+[36]: https://picsum.photos
+[37]: https://reactnative.dev/docs/flexbox.html#content
+[38]: https://education.launchcode.org/intro-to-professional-web-dev/chapters/booleans-and-conditionals/exercises.html
+[39]: https://education.launchcode.org/intro-to-professional-web-dev/chapters/booleans-and-conditionals/studio.html
+
