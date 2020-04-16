@@ -140,8 +140,19 @@ The learning part[Section 5][31] of the Launchcode [Javascript curriculum][30]: 
 	- [Studio in 5.7][39] about goal setting and having the right mindset.
 - Attend Zoom meetup about the [LaunchCode][27] beta [JavaScript Curriculum][30] after work before my little one gets home from Daddy's house. 
 
+**Actual:**
+
+- Started [CSS Grid][6] at lunch. Videos 1-4. Setting up NPM, browser-sync, making sure I have emmet to make life easier, making sure I'm using FIrefox Developer browser for all the CSS Grid Dev Tools goodies. Then a little bit of CSS Grid Funadamentals. Using the #GriddyUp hastag to find other who have done/are doing this course. And there are a few, even now. (This course was made years ago.)
+- Read a [post on twitter][40] about suggested order of learning for front-end developers. I was flummoxed to see he put CSS Grid before Flexbox and kept reading down the thread to see that I wasn't alone. You won't understand CSS Grid if you haven't done Flexbox first. This is borne out in the videos when Wes mentions Flexbox and links what you did in Flexbox to how you do it in CSS Grid. Baby steps. (Good post on the [difference between FlexBox and CSSGrid][43]. One big sad difference pointed out by [Hashim Warren][44]: "The main difference for me is Flexbox works everywhere and Grid doesn’t."
+- Also [Emmet is the jam][41]! Here's a nice writeup on [8 Emmet Tips You Might Now Know][42].
+- Checked out [CSS Grid Generator][45] built by [Sarah Edo][46]. Better to use after learning so I don't shortchange myself on the knowledge. Awesome tool. Another one, [LayoutIt][47] works a little differently.
+- Attended Zoom meetup about the [LaunchCode][27] beta [JavaScript Curriculum][30] after work 
+
+
+
 <hr>
 Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Reiher](https://elizabethreiher.com)
+
 
 [1]: http://masteringmarkdown.com/
 [2]: https://learnnode.com/
@@ -182,4 +193,12 @@ Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Rei
 [37]: https://reactnative.dev/docs/flexbox.html#content
 [38]: https://education.launchcode.org/intro-to-professional-web-dev/chapters/booleans-and-conditionals/exercises.html
 [39]: https://education.launchcode.org/intro-to-professional-web-dev/chapters/booleans-and-conditionals/studio.html
+[40]: https://twitter.com/js_tut/status/1236415196509470722
+[41]: https://twitter.com/chrisoncode/status/1004403839145934849
+[42]: https://scotch.io/bar-talk/8-emmet-tips-you-might-not-know
+[43]: https://css-tricks.com/quick-whats-the-difference-between-flexbox-and-grid/
+[44]: https://twitter.com/hashim_warren
+[45]: https://cssgrid-generator.netlify.app/
+[46]: https://twitter.com/sarah_edo
+[47]: https://grid.layoutit.com/
 
