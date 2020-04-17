@@ -161,6 +161,15 @@ Developer tools in Firefox for CSS Grid are incredible. I never knew the depth o
 - 5. CSS Grid Implicit and Explicit Tracks (what they are and how to see them in Dev Tools)
 - 6. CSS Grid Auto Flow Explained (CSS Grid's version of Flexbox's flex-direction property, sort of)
 
+### Day 12 - 04.17.2020
+
+[CSSGRid.io][6] videos today:
+
+- 7. Sizing tracks in CSS Grid (fractional units of free space, as in ```grid-template-columns: 200px, 200px, 1fr 1fr;```, are better than percentages when working in CSS Grid so that margins don't mess up the proportions of your grid container)
+- 8. CSS Grid Repeat Function as in ```grid-template-columns: repeat(4, 1fr);``` would give you four evenly spaced columbs.
+- 9. Sizing Grid Items (on a grid ```item``` not on a grid ```container```you can have one ```item``` span two columns as in  ```grid-column: span 2;```)
+
+
 
 <hr>
 Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Reiher](https://elizabethreiher.com)
