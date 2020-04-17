@@ -128,7 +128,7 @@ Two cool websites Wes Bos has showed us:
  
 The learning part[Section 5][31] of the Launchcode [Javascript curriculum][30]: Making Decisions with Conditionals which goes from 5.1.1 to 5.5.1. Tonight I completed right before bed.	
 
-### Day 10 - 04.14.2020
+### Day 10 - 04.15.2020
 
 **Plan:** 
 
@@ -142,17 +142,29 @@ The learning part[Section 5][31] of the Launchcode [Javascript curriculum][30]: 
 
 **Actual:**
 
-- Started [CSS Grid][6] at lunch. Videos 1-4. Setting up NPM, browser-sync, making sure I have emmet to make life easier, making sure I'm using FIrefox Developer browser for all the CSS Grid Dev Tools goodies. Then a little bit of CSS Grid Funadamentals. Using the #GriddyUp hastag to find other who have done/are doing this course. And there are a few, even now. (This course was made years ago.)
+- Started [CSS Grid][6] at lunch. Videos 1-3. Setting up NPM, browser-sync, making sure I have emmet to make life easier, making sure I'm using FIrefox Developer browser for all the CSS Grid Dev Tools goodies. Then a little bit of CSS Grid Funadamentals. Using the #GriddyUp hastag to find other who have done/are doing this course. And there are a few, even now. (This course was made years ago.)
 - Read a [post on twitter][40] about suggested order of learning for front-end developers. I was flummoxed to see he put CSS Grid before Flexbox and kept reading down the thread to see that I wasn't alone. You won't understand CSS Grid if you haven't done Flexbox first. This is borne out in the videos when Wes mentions Flexbox and links what you did in Flexbox to how you do it in CSS Grid. Baby steps. (Good post on the [difference between FlexBox and CSSGrid][43]. One big sad difference pointed out by [Hashim Warren][44]: "The main difference for me is Flexbox works everywhere and Grid doesn’t."
 - Also [Emmet is the jam][41]! Here's a nice writeup on [8 Emmet Tips You Might Now Know][42].
 - Checked out [CSS Grid Generator][45] built by [Sarah Edo][46]. Better to use after learning so I don't shortchange myself on the knowledge. Awesome tool. Another one, [LayoutIt][47] works a little differently.
 - Attended Zoom meetup about the [LaunchCode][27] beta [JavaScript Curriculum][30] after work 
 
+### Day 11 - 04.16.2020
+
+Developer tools in Firefox for CSS Grid are incredible. I never knew the depth of this. Almost magical. 
+- [CSS Grid Inspector:Examine grid layouts][48]
+- [Jen Simmons' Variations on a Grid][49] is a good place to try out Firefox Dev tools on a grid in the wild.
+- Saved for later: [Jen Simmons' Layout Lab][50].
+
+[CSSGRid.io][6] videos today:
+
+- 4. CSS Grid Dev Tools (in [Firefox Developer Edition browser][51])
+- 5. CSS Grid Implicit and Explicit Tracks (what they are and how to see them in Dev Tools)
+- 6. CSS Grid Auto Flow Explained (CSS Grid's version of Flexbox's flex-direction property, sort of)
 
 
 <hr>
 Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Reiher](https://elizabethreiher.com)
-
+<hr>
 
 [1]: http://masteringmarkdown.com/
 [2]: https://learnnode.com/
@@ -201,4 +213,8 @@ Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Rei
 [45]: https://cssgrid-generator.netlify.app/
 [46]: https://twitter.com/sarah_edo
 [47]: https://grid.layoutit.com/
+[48]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_grid_layouts
+[49]: https://labs.jensimmons.com/2017/01-003.html
+[50]: https://labs.jensimmons.com/
+[51]: https://www.mozilla.org/en-US/firefox/developer/
 
