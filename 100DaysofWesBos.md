@@ -166,7 +166,7 @@ Developer tools in Firefox for CSS Grid are incredible. I never knew the depth o
 [CSSGRid.io][6] videos today:
 
 - 7. Sizing tracks in CSS Grid (fractional units of free space, as in ```grid-template-columns: 200px, 200px, 1fr 1fr;```, are better than percentages when working in CSS Grid so that margins don't mess up the proportions of your grid container)
-- 8. CSS Grid Repeat Function as in ```grid-template-columns: repeat(4, 1fr);``` would give you four evenly spaced columbs.
+- 8. CSS Grid Repeat Function as in ```grid-template-columns: repeat(4, 1fr);``` would give you four evenly spaced columns.
 - 9. Sizing Grid Items (on a grid ```item``` not on a grid ```container```you can have one ```item``` span two columns as in  ```grid-column: span 2;```)
 
 
