@@ -200,6 +200,19 @@ They reference a [TED Talk by Carol Dweck][56] where she discusses the power of 
 
 A valuable tidbit to keep in mind for myself and to remind my children of.
 
+The chapter ends with some motivation and knowledge about the results of hard work: [Booster Rockets][58]
+The gist of [LaunchCode's Best Practices for Learning to Code][57]: 
+
+* You learn to code by coding. Do your homework.
+* Be ready for day one on the job. Do your homework.
+* Use your mistakes as learning opportunities. Do your homework.
+* Learning takes work, and you need the practice. Do your homework.
+* Your heros worked really hard, so should you. Do your homework.
+* Do your homework, and you will consistently get better.
+
+
+
+
 <hr>
 Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Reiher](https://elizabethreiher.com)
 <hr>
@@ -260,3 +273,5 @@ Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Rei
 [54]: https://education.launchcode.org/intro-to-professional-web-dev/chapters/booleans-and-conditionals/exercises.html
 [55]: https://repl.it/@tonomoshia1/ConditionalsExercises03
 [56]: https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve
+[57]: https://education.launchcode.org/intro-to-professional-web-dev/chapters/booster-rockets/bestpractices.html#best-practices
+[58]: https://education.launchcode.org/intro-to-professional-web-dev/chapters/booster-rockets/index.html
