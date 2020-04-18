@@ -169,7 +169,18 @@ Developer tools in Firefox for CSS Grid are incredible. I never knew the depth o
 - 8. CSS Grid Repeat Function as in ```grid-template-columns: repeat(4, 1fr);``` would give you four evenly spaced columns.
 - 9. Sizing Grid Items (on a grid ```item``` not on a grid ```container```you can have one ```item``` span two columns as in  ```grid-column: span 2;```)
 
+### Day 13 - 04.18.2020
 
+I had a [FocusMate][26] session today which I thought very hard about cancelling becuse I really did not feel like getting out of bed and showering and whatnot. (Being on video with a stranger very much requires showering and whatnot.) Anyway, I did get up and shower and go to my Focusmate session and . . . he did not show up. So I was at my FocusMate session alone, which is fine. By which, I mean I stayed and kept working because what if he showed up and I wasn't there? Then I would be the bad guy. So even though my FocusMate was a no-show it stil fulfilled its purpose--getting me out of bed on a Saturday morning and helping me while I am working towards a goal. 
+
+[CSSGrdi.io][6] videos today:
+
+- 10. Placing Grid Items
+- 11. Spanning and Placing Cardio (a good practice session. I got most of them right. Missed 2.)
+- 12. Auto-Fit and Auto-Fill
+- 13. Using minmax() for Responsive Grids (Can replace media queries!)
+
+Ended up in a blackhole of setting preferences in VS Code which led to perfescting zsh and git aliases. A waste of time that for some reason seems incredibly urgent at the time. Hopefully it will pay off later, _if I can remember my new aliases_. Luckily there is an alias for that will list all my aliases. Very meta.
 
 <hr>
 Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Reiher](https://elizabethreiher.com)
