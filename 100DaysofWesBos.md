@@ -210,6 +210,7 @@ The gist of [LaunchCode's Best Practices for Learning to Code][57]:
 * Your heros worked really hard, so should you. Do your homework.
 * Do your homework, and you will consistently get better.
 
+In unrelated news, I also attended a couple of sessions from [WordCamp Santa Clarita][59]. I would have attended more but I forgot due to FocusMate debacle. (By the way my FocusMate sent me a note apologizing for not showing up. Very classy.) 
 
 
 
@@ -275,3 +276,4 @@ Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Rei
 [56]: https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve
 [57]: https://education.launchcode.org/intro-to-professional-web-dev/chapters/booster-rockets/bestpractices.html#best-practices
 [58]: https://education.launchcode.org/intro-to-professional-web-dev/chapters/booster-rockets/index.html
+[59]: https://2020.santaclarita.wordcamp.org
