@@ -186,6 +186,20 @@ I had a [FocusMate][26] session today which I thought very hard about cancelling
 
 Ended up in a blackhole of setting preferences in VS Code which led to perfescting zsh and git aliases. A waste of time that for some reason seems incredibly urgent at the time. Hopefully it will pay off later, _if I can remember my new aliases_. Luckily there is an alias for that will list all my aliases. Very meta.
 
+Stayed at my desk a little bit longer to complete the [LaunchCode][27] JavaScript Conditionals [exercises for chapter 5][53]. 
+
+My repl.its:
+
+- [Conditional Exercises 1 & 2][52]
+- [Conditional Exercises 3 & 4][53]
+- [Conditional Exercises 5 & 6][55]
+
+The studio for Chapter 5 is about "Goal Setting and Getting Into the Right Mindset"
+They reference a [TED Talk by Carol Dweck][56] where she discusses the power of believing you can improve. There are two ways to think about a problem that’s slightly too hard for you to solve. 
+>Are you not smart enough to solve it … or have you just not solved it yet? 
+
+A valuable tidbit to keep in mind for myself and to remind my children of.
+
 <hr>
 Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Reiher](https://elizabethreiher.com)
 <hr>
@@ -241,4 +255,8 @@ Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Rei
 [49]: https://labs.jensimmons.com/2017/01-003.html
 [50]: https://labs.jensimmons.com/
 [51]: https://www.mozilla.org/en-US/firefox/developer/
-
+[52]: https://repl.it/@tonomoshia1/ConditionalsExercises01
+[53]: https://repl.it/@launchcode/ConditionalsExercises02
+[54]: https://education.launchcode.org/intro-to-professional-web-dev/chapters/booleans-and-conditionals/exercises.html
+[55]: https://repl.it/@tonomoshia1/ConditionalsExercises03
+[56]: https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve
