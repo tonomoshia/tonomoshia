@@ -38,43 +38,43 @@ As of today, March 31, 2020,  [Wes Bos][11] is having a 50% off sale on all of h
 # 100 Days of Wes Bos
 
 ### Day 1 - 03.31.2020
-Started and finished [**Mastering Markdown**][1]. I know and love Markdown but I would like to fill in any gaps before I get started with everything else. Able to finish it during my lunch hour and bang out _**this**_ document. 
+Started and finished [**Mastering Markdown**][1]. I know and love Markdown but I would like to fill in any gaps before I get started with everything else. Able to finish it during my lunch hour and bang out _**this**_ document.
 
 ### Day 2 - 04.01.2020
 Plan: [**Command Line Power User**][8]. Looking forward to _"Getting the Most Out of ZSH with Plugins"_. While I use Oh My Zsh, I didn't know there were plugins for ZSH. This one is about 75 minutes long so one lunch hour won't do it.
 
-Actual: Went through 6/11 of the videos of [**Command Line Power User**][8]. Didn't get to my favorite part yet, but that just means something to look forward to. Discovered [iTerm2 themes][17], [ZSH themes][16] and [Powerline fonts][15]. Git is more fun when it's color-coded and readable. 
+Actual: Went through 6/11 of the videos of [**Command Line Power User**][8]. Didn't get to my favorite part yet, but that just means something to look forward to. Discovered [iTerm2 themes][17], [ZSH themes][16] and [Powerline fonts][15]. Git is more fun when it's color-coded and readable.
 
 ### Day 3 - 04.02.2020
 Plan: Finish [**Command Line Power User**][8].
 
-Actual: I did finish [**Command Line Power User**][8]. Learned so many tips and tricks that are possible with ZSH. Like ```take``` instead of separate ```mkdir``` and ```cd``` commandds. Like advanced history commands with one word and tab or control r. Really neat. The trick is to use them so I don't forget them. 
+Actual: I did finish [**Command Line Power User**][8]. Learned so many tips and tricks that are possible with ZSH. Like ```take``` instead of separate ```mkdir``` and ```cd``` commandds. Like advanced history commands with one word and tab or control r. Really neat. The trick is to use them so I don't forget them.
 
-[ZSH plugins][18] extend the functionality and features of ZSH. So the ones I tried: 
-- node 
-- npm 
+[ZSH plugins][18] extend the functionality and features of ZSH. So the ones I tried:
+- node
+- npm
 - common-aliases
-- extract 
+- extract
 - git-prompt
 - github
 
-The [z][19] is not working so hot for me right now, so I will leave that for now. 
+The [z][19] is not working so hot for me right now, so I will leave that for now.
 
 Learned the reasons to use ```trash``` instead of ```rm```. Only possible if you use ZSH instead of bash, I believe. Installable by npm with this command line: ```npm install --global trash-cli```. Literally **awesome**. Find [trash on npm][21]
 
-Then add ```alias rm=trash``` to your .zshrc to reduce typing & safely trash 
+Then add ```alias rm=trash``` to your .zshrc to reduce typing & safely trash
 
 Found this list of [awesome ZSH frameworks, plugins, themes and tutorials][20].
 
 Also _forgot to eat my lunch and had to eat at my desk after lunch_. Oops.
 
 ### Day 4 - 04.03.2020
-**Plan:** Start Flexbox.io. Should be able to get through 4/20 videos. 
+**Plan:** Start Flexbox.io. Should be able to get through 4/20 videos.
 
 ### Day 4 - 04.04.2020
-Attended [Remote Control Summit][23] Day 1. 
+Attended [Remote Control Summit][23] Day 1.
 
-Completed 4/20 videos from [Flexbox.io][7] 
+Completed 4/20 videos from [Flexbox.io][7]
 
 (Couldn't do yesterday as I skipped lunch hour to make up for the time missed for my a.m. doctor appointment. Our boss bought the office at lunch and I ate at my desk and worked through lunch. (Thanks boss!) No free time at home.)
 
@@ -82,7 +82,7 @@ Completed 4/20 videos from [Flexbox.io][7]
 
 ### 04.05.2020
 
-Attended [Remote Control Summit][23] Day 2. 
+Attended [Remote Control Summit][23] Day 2.
 
 ### Day 5 - 04.07.2020
 
@@ -93,13 +93,13 @@ Referred us to this great resource: [CSS Tricks Explainer][24].
 And, I found this one: [Article from WPMUDev about Flexbox in WordPress][25] .
 
 ### Day 6 - 04.08.2020
-Completed videos 10, 11, 12, and 13 about ```flex``` property with  ```flex-grow```, ```flex-shrink```, ```flex-basis``` and wrapping along with cross-browser support and using autoprefixers to fill in gaps in browser support. 
+Completed videos 10, 11, 12, and 13 about ```flex``` property with  ```flex-grow```, ```flex-shrink```, ```flex-basis``` and wrapping along with cross-browser support and using autoprefixers to fill in gaps in browser support.
 
 ### Day 7 - 04.09.2020
-Completed [Flexbox.io][7] videos 14 and 15 about  making navigation menus and handling mobile re-ordering with flexbox. 
+Completed [Flexbox.io][7] videos 14 and 15 about  making navigation menus and handling mobile re-ordering with flexbox.
 
 ### Day 8 - 04.11.2020
-Completeted 4 sections of Javascript curriculum that [LaunchCode][27] is planning to use for their next cohort in my area. Did a [Focusmate][26] session for the first time. It's an accountability buddy app and it did keep me planted in my chair for the entire 50 minutes so I guess you could say it worked. I did not wander the internet for other topics either because I told my buddy for the day, James, _I was intending to get through 4 or 5 sections_ and I didn't want to tell him I didn't at the end. So I did get through to section 4.4 during the session and continued after it was done.  
+Completeted 4 sections of Javascript curriculum that [LaunchCode][27] is planning to use for their next cohort in my area. Did a [Focusmate][26] session for the first time. It's an accountability buddy app and it did keep me planted in my chair for the entire 50 minutes so I guess you could say it worked. I did not wander the internet for other topics either because I told my buddy for the day, James, _I was intending to get through 4 or 5 sections_ and I didn't want to tell him I didn't at the end. So I did get through to section 4.4 during the session and continued after it was done.
 
 [Exercise completed for section 4.8][28]
 
@@ -109,15 +109,15 @@ Continuing with [Flexbox.io][7] with videos 16 and 17. Nested Flexbox really ble
 
 ### Day 9 - 04.14.2020
 
-Finished [Flexbox.io][7] tonight: 
+Finished [Flexbox.io][7] tonight:
 
-- Video #18: Equal height columns and leftover elements  
+- Video #18: Equal height columns and leftover elements
 - Video #19: Flexbox single line form (more nested Flexbox!)
 - Video #20: Create a mobile app layout with Flexbox (more nested Flexbox --seeing a theme!)
 
-The last video also mentions and shows us [how Flexbox is used in React Active][37]. Pretty cool and I will keep that in my back pocket for later. 
+The last video also mentions and shows us [how Flexbox is used in React Active][37]. Pretty cool and I will keep that in my back pocket for later.
 
-It just works! (Really!) 
+It just works! (Really!)
 
 Two cool websites Wes Bos has showed us:
 
@@ -125,12 +125,12 @@ Two cool websites Wes Bos has showed us:
  - [coverr][34] same thing but with video and not random. you pick them. free stock video footage.  try it out. they've even got a great selection of Zoom virtual backgrounds for these trying times.
 
  _The best thing to come out of this: I am finally understanding what that [monster Flexbox post on CSSTricks][24] is all about._ Show *and* tell.
- 
-The learning part[Section 5][31] of the Launchcode [Javascript curriculum][30]: Making Decisions with Conditionals which goes from 5.1.1 to 5.5.1. Tonight I completed right before bed.	
+
+The learning part[Section 5][31] of the Launchcode [Javascript curriculum][30]: Making Decisions with Conditionals which goes from 5.1.1 to 5.5.1. Tonight I completed right before bed.
 
 ### Day 10 - 04.15.2020
 
-**Plan:** 
+**Plan:**
 
 - Start [CSS Grid][6] at lunch
 - The working part (exercies and studio so 5.6 and 5.7) of  [Section 5][31] of the Launchcode [Javascript curriculum][30]: Making Decisions with Conditionals
@@ -138,7 +138,7 @@ The learning part[Section 5][31] of the Launchcode [Javascript curriculum][30]: 
 		- add link to repl.it link for exercieses 1 and 2
 		- add link to repl.it for exercises 3 and 4
 	- [Studio in 5.7][39] about goal setting and having the right mindset.
-- Attend Zoom meetup about the [LaunchCode][27] beta [JavaScript Curriculum][30] after work before my little one gets home from Daddy's house. 
+- Attend Zoom meetup about the [LaunchCode][27] beta [JavaScript Curriculum][30] after work before my little one gets home from Daddy's house.
 
 **Actual:**
 
@@ -146,15 +146,15 @@ The learning part[Section 5][31] of the Launchcode [Javascript curriculum][30]: 
 	- 1. Welcome
 	- 2. Starter FIles and Tooling Setup
 	- 3. CSS Grid Fundamentals
-	 	
+
 - Read a [post on twitter][40] about suggested order of learning for front-end developers. I was flummoxed to see he put CSS Grid before Flexbox and kept reading down the thread to see that I wasn't alone. You won't understand CSS Grid if you haven't done Flexbox first. This is borne out in the videos when Wes mentions Flexbox and links what you did in Flexbox to how you do it in CSS Grid. Baby steps. (Good post on the [difference between FlexBox and CSSGrid][43]. One big sad difference pointed out by [Hashim Warren][44]: "The main difference for me is Flexbox works everywhere and Grid doesn’t."
 - Also [Emmet is the jam][41]! Here's a nice writeup on [8 Emmet Tips You Might Now Know][42].
 - Checked out [CSS Grid Generator][45] built by [Sarah Edo][46]. Better to use after learning so I don't shortchange myself on the knowledge. Awesome tool. Another one, [LayoutIt][47] works a little differently.
-- Attended Zoom meetup about the [LaunchCode][27] beta [JavaScript Curriculum][30] after work 
+- Attended Zoom meetup about the [LaunchCode][27] beta [JavaScript Curriculum][30] after work
 
 ### Day 11 - 04.16.2020
 
-Developer tools in Firefox for CSS Grid are incredible. I never knew the depth of this. Almost magical. 
+Developer tools in Firefox for CSS Grid are incredible. I never knew the depth of this. Almost magical.
 - [CSS Grid Inspector:Examine grid layouts][48]
 - [Jen Simmons' Variations on a Grid][49] is a good place to try out Firefox Dev tools on a grid in the wild.
 - Saved for later: [Jen Simmons' Layout Lab][50].
@@ -175,7 +175,7 @@ Developer tools in Firefox for CSS Grid are incredible. I never knew the depth o
 
 ### Day 13 - 04.18.2020
 
-I had a [FocusMate][26] session today which I thought very hard about cancelling becuse I really did not feel like getting out of bed and showering and whatnot. (Being on video with a stranger very much requires showering and whatnot.) Anyway, I did get up and shower and go to my Focusmate session and . . . he did not show up. So I was at my FocusMate session alone, which is fine. By which, I mean I stayed and kept working because what if he showed up and I wasn't there? Then I would be the bad guy. So even though my FocusMate was a no-show it stil fulfilled its purpose--getting me out of bed on a Saturday morning and helping me while I am working towards a goal. 
+I had a [FocusMate][26] session today which I thought very hard about cancelling becuse I really did not feel like getting out of bed and showering and whatnot. (Being on video with a stranger very much requires showering and whatnot.) Anyway, I did get up and shower and go to my Focusmate session and . . . he did not show up. So I was at my FocusMate session alone, which is fine. By which, I mean I stayed and kept working because what if he showed up and I wasn't there? Then I would be the bad guy. So even though my FocusMate was a no-show it stil fulfilled its purpose--getting me out of bed on a Saturday morning and helping me while I am working towards a goal.
 
 [CSSGrdi.io][6] videos today:
 
@@ -186,7 +186,7 @@ I had a [FocusMate][26] session today which I thought very hard about cancelling
 
 Ended up in a blackhole of setting preferences in VS Code which led to perfescting zsh and git aliases. A waste of time that for some reason seems incredibly urgent at the time. Hopefully it will pay off later, _if I can remember my new aliases_. Luckily there is an alias for that will list all my aliases. Very meta.
 
-Stayed at my desk a little bit longer to complete the [LaunchCode][27] JavaScript Conditionals [exercises for chapter 5][53]. 
+Stayed at my desk a little bit longer to complete the [LaunchCode][27] JavaScript Conditionals [exercises for chapter 5][53].
 
 My repl.its:
 
@@ -195,13 +195,13 @@ My repl.its:
 - [Conditional Exercises 5 & 6][55]
 
 The studio for Chapter 5 is about "Goal Setting and Getting Into the Right Mindset"
-They reference a [TED Talk by Carol Dweck][56] where she discusses the power of believing you can improve. There are two ways to think about a problem that’s slightly too hard for you to solve. 
->Are you not smart enough to solve it … or have you just not solved it yet? 
+They reference a [TED Talk by Carol Dweck][56] where she discusses the power of believing you can improve. There are two ways to think about a problem that’s slightly too hard for you to solve.
+>Are you not smart enough to solve it … or have you just not solved it yet?
 
 A valuable tidbit to keep in mind for myself and to remind my children of.
 
 The chapter ends with some motivation and knowledge about the results of hard work: [Booster Rockets][58]
-The gist of [LaunchCode's Best Practices for Learning to Code][57]: 
+The gist of [LaunchCode's Best Practices for Learning to Code][57]:
 
 * You learn to code by coding. Do your homework.
 * Be ready for day one on the job. Do your homework.
@@ -210,8 +210,18 @@ The gist of [LaunchCode's Best Practices for Learning to Code][57]:
 * Your heros worked really hard, so should you. Do your homework.
 * Do your homework, and you will consistently get better.
 
-In unrelated news, I also attended a couple of sessions from [WordCamp Santa Clarita][59]. I would have attended more but I forgot due to FocusMate debacle. (By the way my FocusMate sent me a note apologizing for not showing up. Very classy.) 
+In unrelated news, I also attended a couple of sessions from [WordCamp Santa Clarita][59]. I would have attended more but I forgot due to FocusMate debacle. (By the way my FocusMate sent me a note apologizing for not showing up. Very classy.)
 
+### Day 14 - 04.20.2020
+Read [Chapter 6] on Errors and Debugging in [LaunchCode][27] JavaScript couse and completed Errors & Debgging [exercises for chapter 6][60].
+
+My repl.its:
+
+- [Debugging Exercise 1][61]
+- [Debugging Exercise 2][62]
+- [Debugging Exercise 3][63]
+- [Debugging Exercise 4][64]
+- [Debugging Exercise 5][65]
 
 
 <hr>
@@ -277,3 +287,10 @@ Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Rei
 [57]: https://education.launchcode.org/intro-to-professional-web-dev/chapters/booster-rockets/bestpractices.html#best-practices
 [58]: https://education.launchcode.org/intro-to-professional-web-dev/chapters/booster-rockets/index.html
 [59]: https://2020.santaclarita.wordcamp.org
+[60]: https://education.launchcode.org/intro-to-professional-web-dev/chapters/errors-and-debugging/exercises.html
+[61]: https://repl.it/@tonomoshia1/Debug1stSyntaxError
+[62]: https://repl.it/@tonomoshia1/DebugSyntaxErrors2
+[63]: https://repl.it/@tonomoshia1/DebugRuntimeErrors1
+[64]: https://repl.it/@tonomoshia1/DebugRuntimeErrors2
+[65]: https://repl.it/@tonomoshia1/DebugLogicErrors5
+[66]: https://education.launchcode.org/intro-to-professional-web-dev/chapters/errors-and-debugging/index.html
