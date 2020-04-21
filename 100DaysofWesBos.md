@@ -213,7 +213,7 @@ The gist of [LaunchCode's Best Practices for Learning to Code][57]:
 In unrelated news, I also attended a couple of sessions from [WordCamp Santa Clarita][59]. I would have attended more but I forgot due to FocusMate debacle. (By the way my FocusMate sent me a note apologizing for not showing up. Very classy.)
 
 ### Day 14 - 04.20.2020
-Read [Chapter 6][66] on Errors and Debugging in [LaunchCode][27] JavaScript couse and completed Errors & Debgging [exercises for chapter 6][60].
+Read [Chapter 6][66] on Errors and Debugging in [LaunchCode][27] JavaScript course and completed Errors & Debgging [exercises for chapter 6][60].
 
 My repl.its:
 
@@ -228,6 +228,15 @@ Videos in [CSSGrid.io][6]:
 - 14. Grid Template Area (one thing I remember from [freecodecamp][67], I think.)
 - 15. Naming Lines in CSS Grid
 
+### Day 15 - 04.21.2020
+
+Videos in [CSSGrid.io][6]:
+
+- 16. Grid Auto Flow Dense Block Fitting 
+- 17. CSS Grid Alignment and Centering
+
+Read [Chapter 7][68] on "Stringing Characters Together" in [LaunchCode][27] JavaScript course.
+ 
 <hr>
 Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Reiher](https://elizabethreiher.com)
 <hr>
@@ -299,3 +308,4 @@ Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Rei
 [65]: https://repl.it/@tonomoshia1/DebugLogicErrors5
 [66]: https://education.launchcode.org/intro-to-professional-web-dev/chapters/errors-and-debugging/index.html
 [67]: https://www.freecodecamp.org/learn/responsive-web-design/css-grid/
+[68]: https://education.launchcode.org/intro-to-professional-web-dev/chapters/strings/index.html
