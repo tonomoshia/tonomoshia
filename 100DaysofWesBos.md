@@ -213,7 +213,7 @@ The gist of [LaunchCode's Best Practices for Learning to Code][57]:
 In unrelated news, I also attended a couple of sessions from [WordCamp Santa Clarita][59]. I would have attended more but I forgot due to FocusMate debacle. (By the way my FocusMate sent me a note apologizing for not showing up. Very classy.)
 
 ### Day 14 - 04.20.2020
-Read [Chapter 6] on Errors and Debugging in [LaunchCode][27] JavaScript couse and completed Errors & Debgging [exercises for chapter 6][60].
+Read [Chapter 6][66] on Errors and Debugging in [LaunchCode][27] JavaScript couse and completed Errors & Debgging [exercises for chapter 6][60].
 
 My repl.its:
 
@@ -226,7 +226,7 @@ My repl.its:
 Videos in [CSSGrid.io][6]:
 
 - 14. Grid Template Area (one thing I remember from [freecodecamp][67], I think.)
-- 15. Namilng Lines in CSS Grid
+- 15. Naming Lines in CSS Grid
 
 <hr>
 Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Reiher](https://elizabethreiher.com)
