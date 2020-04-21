@@ -9,14 +9,14 @@ I have bought a few of his courses but never finished them so I am starting, tod
 ---
 
 ## Courses on My List
-- [Mastering Markdown][1]
-- [Learn Node][2]
-- [JavaScript 30 (free)][2]
-- [React for Beginners][4]
-- [ES6 for Everyone][5]
-- [CSSGrid.io (free, thanks to Mozilla)][6]
-- [Flexbox.io (free)][7]
-- [Command Line Power User (free)][8]
+- [x] [Mastering Markdown][1]
+- [ ] [Learn Node][2]
+- [ ] [JavaScript 30 (free)][2]
+- [ ] [React for Beginners][4]
+- [ ] [ES6 for Everyone][5]
+- [ ] [CSSGrid.io (free, thanks to Mozilla)][6]
+- [x] [Flexbox.io (free)][7]
+- [x] [Command Line Power User (free)][8]
 
 ## Plan (order of operations)
 1. Mastering Markdown
