@@ -223,6 +223,10 @@ My repl.its:
 - [Debugging Exercise 4][64]
 - [Debugging Exercise 5][65]
 
+Videos in [CSSGrid.io][6]:
+
+- 14. Grid Template Area (one thing I remember from [freecodecamp][67], I think.)
+- 15. Namilng Lines in CSS Grid
 
 <hr>
 Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Reiher](https://elizabethreiher.com)
@@ -294,3 +298,4 @@ Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Rei
 [64]: https://repl.it/@tonomoshia1/DebugRuntimeErrors2
 [65]: https://repl.it/@tonomoshia1/DebugLogicErrors5
 [66]: https://education.launchcode.org/intro-to-professional-web-dev/chapters/errors-and-debugging/index.html
+[67]: https://www.freecodecamp.org/learn/responsive-web-design/css-grid/
