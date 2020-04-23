@@ -245,6 +245,22 @@ Had to go shopping for my mom after ork because she is in self-quarantine.
 
 I did attend two hour class on [LuanchCode][27] JavaScript class. We talked about strings, arrays, functions and loops. 
 
+### Day 16 - 04.23.2020
+
+Videos in [CSSGrid.io][6]:
+
+- 18. Re-ordering Grid Items (Caution: using ```order``` property can mess up your webpage's accessibility!)
+- 19. Nesting Grid with Album Layouts
+
+Having some trouble streaming the [CSS Grid][6] videos for some reason, so I switched to [ES6.io][5] to stay productive. 
+
+Videos in [ES6.io][5]:
+
+- 1. Getting Setup
+- 2 - ```var``` Scoping Refresher (```var``` variable is function-scoped; ```let``` and ```const``` variables are block-scoped. Think of curly brackets as jail for these variables.)
+
+Handy time to do this while I am going through the JavaScript overview sessions with [LaunchCode][27].
+
  
 <hr>
 Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Reiher](https://elizabethreiher.com)
