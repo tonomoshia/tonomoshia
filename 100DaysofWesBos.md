@@ -237,6 +237,15 @@ Videos in [CSSGrid.io][6]:
 
 Read [Chapter 7][68] on "Stringing Characters Together" in [LaunchCode][27] JavaScript course.
  
+### 04.22.2020
+
+Not counting today  . . . because although I did code, I didn't do any Wes Bos. Wi-Fi was spotty at work and I couldn't do the videos on my lunch hour. 
+
+Had to go shopping for my mom after ork because she is in self-quarantine. 
+
+I did attend two hour class on [LuanchCode][27] JavaScript class. We talked about strings, arrays, functions and loops. 
+
+ 
 <hr>
 Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Reiher](https://elizabethreiher.com)
 <hr>
