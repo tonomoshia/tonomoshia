@@ -262,6 +262,27 @@ Videos in [ES6.io][5]:
 Handy time to do this while I am going through the JavaScript overview sessions with [LaunchCode][27].
 
  
+### Day 17 - 04.24.2020
+ 
+In [CSSGrid.io][6], we made an  **Grid Image Gallery**. Wes just out-of-nowhere added a bunch of ES6 JavaScript to randomly generate an image gallery and to add event listeners and I did not see that coming. So now my JS is leaking into my CSS Grid learning.
+
+In **let vs. const** video of [ES6.io][5] we learned about the diffrence between  ```let``` and ```const``` and when you would use each.
+
+#### ES6 Notes:
+
+- Cannot redeclare a ```let``` variable in the same scope. You can _update_ it, but you cannot _redeclare_ it.
+- You could declare a ```let``` variable in window scope and again in function scope and those will be two _separate_ variables.
+- ```const``` variables _cannot be updated_. ```const``` stands for _constant_.
+- Properties of a ```const`` variable _can be_ updated.
+- ```Object.freeze``` will make a ```const`` variable's properties unchangeable. 
+
+Stayed home from work today with the youngest one to give the eldest one a day off as he was burnt out on 5-year-old shenanigans.
+
+Have a FocusMate session tomorrow at 11:00 a.m. so I will be doing [LaunchCode][27] JavaScript work then. 
+
+Then an exciting viewing of Disney's new-ish movie, Onward Bound.
+
+
 <hr>
 Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Reiher](https://elizabethreiher.com)
 <hr>
