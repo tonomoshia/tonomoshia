@@ -264,7 +264,9 @@ Handy time to do this while I am going through the JavaScript overview sessions 
  
 ### Day 17 - 04.24.2020
  
-In [CSSGrid.io][6], we made an  **Grid Image Gallery**. Wes just out-of-nowhere added a bunch of ES6 JavaScript to randomly generate an image gallery and to add event listeners and I did not see that coming. So now my JS is leaking into my CSS Grid learning.
+In [CSSGrid.io][6], we made a **Grid Image Gallery**. Wes just out-of-nowhere added a bunch of ES6 JavaScript to randomly generate an image gallery and to add event listeners and I did not see that coming. So now my JS is leaking into my CSS Grid learning.
+
+I [saw][69] an [interesting implementation of CSS Grid][70]. It does not look boxy like you would expect. 
 
 In **let vs. const** video of [ES6.io][5] we learned about the diffrence between  ```let``` and ```const``` and when you would use each.
 
@@ -355,3 +357,5 @@ Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Rei
 [66]: https://education.launchcode.org/intro-to-professional-web-dev/chapters/errors-and-debugging/index.html
 [67]: https://www.freecodecamp.org/learn/responsive-web-design/css-grid/
 [68]: https://education.launchcode.org/intro-to-professional-web-dev/chapters/strings/index.html
+[69]: https://twitter.com/tonomoshia/status/1253742873318735872
+[70]:https://codepen.io/andybarefoot/pen/oNjxYYG
