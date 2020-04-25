@@ -268,7 +268,7 @@ In [CSSGrid.io][6], we made a **Grid Image Gallery**. Wes just out-of-nowhere ad
 
 I [saw][69] an [interesting implementation of CSS Grid][70]. It does not look boxy like you would expect. 
 
-In **let vs. const** video of [ES6.io][5] we learned about the diffrence between  ```let``` and ```const``` and when you would use each.
+In **let vs. const** video of [ES6.io][5] we learned about the difference between  ```let``` and ```const``` and when you would use each.
 
 #### ES6 Notes:
 
