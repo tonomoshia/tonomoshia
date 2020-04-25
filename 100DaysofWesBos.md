@@ -284,8 +284,31 @@ Have a FocusMate session tomorrow at 11:00 a.m. so I will be doing [LaunchCode][
 
 Then an exciting viewing of Disney's new-ish movie, Onward Bound.
 
+### Day 18 - 04.25.2020
+Focusmate session at 11:00 a.m. working on [LaunchCode][27] JavaScript.
+
+**Chapter 7: "Stringing Characters Together"**
+
+- [String Mad Lib repl.it][71]
+- String Exercises 
+	- [7.9.1][72]
+	- [7.9.2.1][73]
+	- [7.9.2.2][74] (Didn't do all of it.)
+	 
+**Chapter 8: Arrays Keep Things in Order**
+
+- Read the chapter.
+- Notes:
+	- arrays are mutable, meaning that individual items in an array can be edited without a new array being created.
+	- [W3Schools Array Reference][75]
+	- [MDN Array Reference][76]
+- Array Exercises:
+	- [8.5.1][77]
+
+That is all. No Wes Bos today so not counting today as a day.
 
 <hr>
+
 Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Reiher](https://elizabethreiher.com)
 <hr>
 
@@ -359,3 +382,10 @@ Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Rei
 [68]: https://education.launchcode.org/intro-to-professional-web-dev/chapters/strings/index.html
 [69]: https://twitter.com/tonomoshia/status/1253742873318735872
 [70]:https://codepen.io/andybarefoot/pen/oNjxYYG
+[71]: https://repl.it/@tonomoshia1/String-Mad-Lib
+[72]: https://repl.it/@tonomoshia1/StringExercises02-1
+[73]: https://repl.it/@tonomoshia1/StringExercises03
+[74]: https://repl.it/@tonomoshia1/DNA-strings
+[75]: https://www.w3schools.com/jsref/jsref_obj_array.asp
+[76]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+[77]: https://repl.it/@tonomoshia1/ArrayExercises01
