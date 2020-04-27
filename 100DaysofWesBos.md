@@ -284,7 +284,7 @@ Have a FocusMate session tomorrow at 11:00 a.m. so I will be doing [LaunchCode][
 
 Then an exciting viewing of Disney's new-ish movie, Onward Bound.
 
-### Day 18 - 04.25.2020
+### 04.25.2020
 Focusmate session at 11:00 a.m. working on [LaunchCode][27] JavaScript.
 
 **Chapter 7: "Stringing Characters Together"**
@@ -306,6 +306,40 @@ Focusmate session at 11:00 a.m. working on [LaunchCode][27] JavaScript.
 	- [8.5.1][77]
 
 That is all. No Wes Bos today so not counting today as a day.
+
+### 04.26.2020
+Day off
+
+### Day 18 - 04.27.2020
+
+[ES6.io][5] videos today:
+
+[**```let``` and ```const``` in the real world:** ][83]
+
+-	replacing the [IIFE][78] (initially invoke function expression). [Block Scope is the new IIFE][84]
+- fix problem with ```for``` loops where variables in ```for``` leak out and become global variables. [Use ```let``` with ```for``` loops][85]
+ 
+[**temporal dead zone:**][82]: 
+ 
+ With ```let``` and ```const``` you cannot access a variable before it is defined. 
+ 
+ With ```var``` you can acess the fact that a variable has created but not its value so accessing it will result in ```undefined``` rather than variable has not been defined error.
+
+[**Is ```var``` dead? What should I use?:**][81]
+
+How Wes goes about it by way of [this blog post by Mathis Bynens][79]:
+
+1. use ```const``` by default
+2. only use ```let``if rebinding is needed
+3. (var shouldn't be used in ES6)
+
+Another popoular opinion [via Kyle Simpson][80] of You Don't Know JS fame: 
+
+1. use ```var``` for top-level variables that are shared across many (especially larger) scopes.
+2. Use ```let``` for localized variables in smaller scopes.
+3. Refactor ```let``` to ```const``` only after some code has been written and you're reasonably sure that you've got a case where there shouldn't be variable reassignment. 
+
+So basically these two opinions are diametrically opposed. 
 
 <hr>
 
@@ -389,3 +423,11 @@ Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Rei
 [75]: https://www.w3schools.com/jsref/jsref_obj_array.asp
 [76]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
 [77]: https://repl.it/@tonomoshia1/ArrayExercises01
+[78]: http://benalman.com/news/2010/11/immediately-invoked-function-expression/
+[79]: https://mathiasbynens.be/notes/es6-const
+[80]: http://blog.getify.com/constantly-confusing-const/
+[81]:https://wesbos.com/is-var-dead
+[82]: https://wesbos.com/temporal-dead-zone/
+[83]: https://wesbos.com/es6-block-scope-iife/
+[84]: https://wesbos.com/es6-block-scope-iife/
+[85]: https://wesbos.com/for-of-es6/
