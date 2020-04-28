@@ -351,7 +351,7 @@ Three benefits:
 
 1. more concise than regular functions
 2. implicit return allows us to write one-liners
-3. dowsn't re-bind the value of ```this``` when you use an arrow function inside another function
+3. doesn't re-bind the value of ```this``` when you use an arrow function inside another function
 
 **=>** is the "fat arrow" used in _arrow functions_
 
@@ -480,4 +480,4 @@ Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Rei
 [86]: https://wesbos.com/arrow-functions/
 [87]: https://repl.it/@tonomoshia1/ArrowFunctions
 [88]: https://wesbos.com/arrow-function-examples
-[89]:[https://repl.it/@tonomoshia1/MoreArrowFunctions]
+[89]:[https://repl.it/@tonomoshia1/MoreArrowFunctions
