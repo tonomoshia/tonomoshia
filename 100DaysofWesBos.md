@@ -480,4 +480,4 @@ Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Rei
 [86]: https://wesbos.com/arrow-functions/
 [87]: https://repl.it/@tonomoshia1/ArrowFunctions
 [88]: https://wesbos.com/arrow-function-examples
-[89]:[https://repl.it/@tonomoshia1/MoreArrowFunctions
+[89]: https://repl.it/@tonomoshia1/MoreArrowFunctions
