@@ -341,6 +341,52 @@ Another popoular opinion [via Kyle Simpson][80] of You Don't Know JS fame:
 
 So basically these two opinions are diametrically opposed. 
 
+### Day 19 - 04.28.2020
+
+ES6.io today:
+
+**[Introduction to Arrow Functions][86]**
+
+Three benefits:
+
+1. more concise than regular functions
+2. implicit return allows us to write one-liners
+3. dowsn't re-bind the value of ```this``` when you use an arrow function inside another function
+
+**=>** is the "fat arrow" used in _arrow functions_
+
+Example function that adds last names to all the first names in our array re-written as an _arrow function_:
+
+declaring array of first names:
+
+```const names = ['wes', 'kait', 'lux'];```
+
+
+function written the 'regular' way:
+```const fullnames = names.map(function(name) {return `${name} bos`;});```
+
+function written as an arrow function:
+```const fullnames2 = names.map((name) => {return `${name} bos`;});```
+
+If you only have one parameter, as we do, you *can choose to* omit one set of parentheses:
+```const fullnames3 = names.map(name => { return `${name} bos`;});```
+
+example of implicit return (delete curly brackets and ```return``` keyword):
+``` const fullnames4 = names.map(name => `${name} box`);```
+
+```console.log(fullnames);``` returns ```['wes bos', 'kait bos', lux bos']
+
+More elegantly shown in my [arrow functions repl.it][87]. All four of these return the same thing.
+
+Arrow functions are always _anonymous functions_.
+Benefit of named functions is doing stack trace to find reason for errors.
+
+You can put an arrow function _inside_ a variable and that will make it easier to stack trace. 
+
+**[More Arrow Function Examples][88]**
+
+[My repl.it with this example set][89]
+
 <hr>
 
 Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Reiher](https://elizabethreiher.com)
@@ -431,3 +477,7 @@ Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Rei
 [83]: https://wesbos.com/es6-block-scope-iife/
 [84]: https://wesbos.com/es6-block-scope-iife/
 [85]: https://wesbos.com/for-of-es6/
+[86]: https://wesbos.com/arrow-functions/
+[87]: https://repl.it/@tonomoshia1/ArrowFunctions
+[88]: https://wesbos.com/arrow-function-examples
+[89]:[https://repl.it/@tonomoshia1/MoreArrowFunctions]
