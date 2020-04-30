@@ -374,7 +374,7 @@ If you only have one parameter, as we do, you *can choose to* omit one set of pa
 example of implicit return (delete curly brackets and ```return``` keyword):
 ``` const fullnames4 = names.map(name => `${name} box`);```
 
-```console.log(fullnames);``` returns ```['wes bos', 'kait bos', lux bos']
+```console.log(fullnames);``` returns ```['wes bos', 'kait bos', lux bos']```
 
 More elegantly shown in my [arrow functions repl.it][87]. All four of these return the same thing.
 
@@ -386,6 +386,27 @@ You can put an arrow function _inside_ a variable and that will make it easier t
 **[More Arrow Function Examples][88]**
 
 [My repl.it with this example set][89]
+
+### Day 20 - 04.29.2020
+
+**[Arrow Functions and ```this```][90]**
+
+- [Working Repl.it][91]
+- [Wes' CodePen][92]
+
+He does not want to use arrow function because he wants ```this``` to bind to the box, not the window. Arrow functions bind to the parent scope. 
+
+>>when you use an arrow function, the value of ```this``` is not rebound inside of that function. It is just inherited form whatever the parent scope is.
+
+But he does want an arrow function on the ```setTimeOut``` function because he wants ```this``` to bind to the first (event listener) function.
+
+>>Because when you have an arrow function, it does not change the value of this. It inherits the value of this from the parent.
+
+And
+
+>>The big takeaway here is that we can use an arrow function for things inside of a normal function and it's going to inherit the value of this.
+
+Also attended [LaunchCode][27] Javascript class. Working on Chapter [11][93] on Functions and [12][94] on Objects. We did [Assignment 1][95] together.
 
 <hr>
 
@@ -481,3 +502,9 @@ Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Rei
 [87]: https://repl.it/@tonomoshia1/ArrowFunctions
 [88]: https://wesbos.com/arrow-function-examples
 [89]: https://repl.it/@tonomoshia1/MoreArrowFunctions
+[90]: https://wesbos.com/arrow-functions-this-javascript/
+[91]: https://repl.it/@tonomoshia1/Arrow-Functions-and-this-ES6io
+[92]: https://codepen.io/wesbos/pen/KgpNjJ/
+[93]: https://education.launchcode.org/intro-to-professional-web-dev/chapters/more-on-functions/index.html
+[94]: https://education.launchcode.org/intro-to-professional-web-dev/chapters/objects-and-math/index.html
+[95]: https://education.launchcode.org/intro-to-professional-web-dev/assignments/candidateQuiz.html
