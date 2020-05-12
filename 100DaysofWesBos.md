@@ -434,7 +434,18 @@ Learning about building websites with Hugo, as I read something that sparked an 
 
 Spent a couple hours playing with this and then deleted it. It was a nice diversion, but it's time to get back to my path. 
 
-<hr>
+--
+Found out this weekend that [LaunchCode][27] has ceased operations in South Florida, so those of us who have not been hired yet for an apprenticeship are no longer going to be connected to jobs. 
+>>As we begin to imagine what a post-COVID world looks like, LaunchCode has made the difficult decision to suspend operations in our Florida locations, as economic conditions and hiring challenges created by the pandemic now prevent our sustainable operation in the region. 
+
+>>This decision also means LaunchCode will no longer be soliciting new employer partnerships and can no longer commit to connecting you with job opportunities. We are deeply sorry we’re not able to play a more direct role in launching your career. 
+
+
+. . . which makes you wonder about the landscape those of us left behind. At least my classmates who are working together in GrammerHub are making progress on real projects together so good for them for being smart and sticking with that. I got too overwhelmed to contine that along with work and family.
+
+--
+
+
 
 Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Reiher](https://elizabethreiher.com)
 <hr>
