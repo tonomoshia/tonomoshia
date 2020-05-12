@@ -408,6 +408,32 @@ And
 
 Also attended [LaunchCode][27] Javascript class. Working on Chapter [11][93] on Functions and [12][94] on Objects. We did [Assignment 1][95] together.
 
+### Day 21 - 05-02.2020
+
+In [ES6.io][5], [JavaScript Default Function Arguments][98]
+
+Explored today:
+
+- ByteSized React Conference Day 2 (day 1 was yesterday)
+- [30 free resources for JavaScript Resources][96]
+- [Syntax.fm podcast episode 162 on JavaScript Fundamentals][97]
+- [Pluralsight Tech Skills Day 2020 Conference held on April 23, 2020][99] ([direct YouTube link][100])
+
+
+### May 11, 2020
+
+Been on an extended break. My mother came for an unplanned visit and I had no free time between my mom, the kids, my partner and my job. Was quite a full house and schedule. Now I am getting back into it. 
+
+Learning about building websites with Hugo, as I read something that sparked an interest. Not counting this as part of #100DaysOfWesBos though it would technically be parto fo #100DaysOfCode. 
+
+- [Learning Static Site Building with Huog][102]
+- [Static Gen: A List of Static Site Generators for JAM Stack Sites][103]
+-	Installed Hugo via homebrew on terminal: 
+
+	```brew install hugo```
+
+Spent a couple hours playing with this and then deleted it. It was a nice diversion, but it's time to get back to my path. 
+
 <hr>
 
 Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Reiher](https://elizabethreiher.com)
@@ -508,3 +534,11 @@ Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Rei
 [93]: https://education.launchcode.org/intro-to-professional-web-dev/chapters/more-on-functions/index.html
 [94]: https://education.launchcode.org/intro-to-professional-web-dev/chapters/objects-and-math/index.html
 [95]: https://education.launchcode.org/intro-to-professional-web-dev/assignments/candidateQuiz.html
+[96]: https://madisonkanna.com/30-free-resources-javascript/
+[97]: https://syntax.fm/show/162/the-fundamentals-js
+[98]: https://wesbos.com/javascript-default-function-arguments/
+[99]: https://www.pluralsight.com/techskillsday
+[100]: https://youtu.be/rO0ol6Inncc
+[101]: https://google.com
+[102]: https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-static-site-building-with-hugo-2%3Ftrk%3Dshare_ent_url&account=35754684
+[103]: https://www.staticgen.com/
