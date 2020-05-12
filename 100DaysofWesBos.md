@@ -426,7 +426,7 @@ Been on an extended break. My mother came for an unplanned visit and I had no fr
 
 Learning about building websites with Hugo, as I read something that sparked an interest. Not counting this as part of #100DaysOfWesBos though it would technically be parto fo #100DaysOfCode. 
 
-- [Learning Static Site Building with Huog][102]
+- [Learning Static Site Building with Hugo][102]
 - [Static Gen: A List of Static Site Generators for JAM Stack Sites][103]
 -	Installed Hugo via homebrew on terminal: 
 
