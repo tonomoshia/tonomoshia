@@ -445,7 +445,18 @@ Found out this weekend that [LaunchCode][27] has ceased operations in South Flor
 
 --
 
+### Day 22 May 13, 2020
 
+Since LaunchCode South Florida is no more, decided to add Wes Bos' [Beginner JavaScript][104] to my curriculum and skootch it ahead of [ES6.io][5] because I am confused right now and realize I need more JavaScript basics first, even though I've done it befoe elsewhere. I have forgotten more than I know.
+
+So today is [Beginner JavaScript][104] Day 1. Half price. 28 hours long. I will be here for a while.
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">I&#39;m taking the Beginner JavaScript class with <a href="https://twitter.com/wesbos?ref_src=twsrc%5Etfw">@wesbos</a>! Join me → <a href="https://t.co/0Dv0IVsJaA">https://t.co/0Dv0IVsJaA</a></p>&mdash; Elizabeth Reiher (@tonomoshia) <a href="https://twitter.com/tonomoshia/status/1260630015760269318?ref_src=twsrc%5Etfw">May 13, 2020</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Day 21 and 22: JavaScript Default Arguments and more JavaScript. <br>No more <a href="https://twitter.com/launchcode?ref_src=twsrc%5Etfw">@launchcode</a> weekly get togethers so on my own for this one. Time to set up more <a href="https://twitter.com/focusmate?ref_src=twsrc%5Etfw">@focusmate</a> sessions to keep on track.<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a><a href="https://twitter.com/hashtag/100DaysOfWesBos?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfWesBos</a> <a href="https://twitter.com/hashtag/MomsWhoCode?src=hash&amp;ref_src=twsrc%5Etfw">#MomsWhoCode</a><a href="https://twitter.com/hashtag/WomenWhoCode?src=hash&amp;ref_src=twsrc%5Etfw">#WomenWhoCode</a><a href="https://t.co/eT6LmikBTX">https://t.co/eT6LmikBTX</a></p>&mdash; Elizabeth Reiher (@tonomoshia) <a href="https://twitter.com/tonomoshia/status/1260632480400445440?ref_src=twsrc%5Etfw">May 13, 2020</a></blockquote>
+
+--
 
 Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Reiher](https://elizabethreiher.com)
 <hr>
@@ -553,3 +564,4 @@ Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Rei
 [101]: https://google.com
 [102]: https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-static-site-building-with-hugo-2%3Ftrk%3Dshare_ent_url&account=35754684
 [103]: https://www.staticgen.com/
+[104]: https://beginnerjavascript.com/
