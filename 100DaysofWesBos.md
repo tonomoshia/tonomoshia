@@ -17,12 +17,14 @@ I have bought a few of his courses but never finished them so I am starting, tod
 - [ ] [CSSGrid.io (free, thanks to Mozilla)][6]
 - [x] [Flexbox.io (free)][7]
 - [x] [Command Line Power User (free)][8]
+- [ ] [Beginner JavaScript][104]
 
 ## Plan (order of operations)
 1. Mastering Markdown
 2. Command Line Power User
 3. Flexbox.io
 4. CSS Grid
+5. Beginner JavaScript (added)
 5. ES6 for Everyone
 6. JavaScript 30
 7. React for Beginners
