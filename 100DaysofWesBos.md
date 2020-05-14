@@ -455,6 +455,17 @@ So today is [Beginner JavaScript][104] [Day 1][105]. Half price. 28 hours long. 
 
 [Tweet for today][106]
 
+Some [great notes][107] by [Soumya (@geekysrm)][109] (also on [github][108])
+
+In [Beginner Javascript][104] today: 
+
+1. Welcome ([notes][110])
+2. Browser, Editor and Terminal Setup ([notes][111])
+3. Running and Loading JS ([notes][112])
+4. Variables and Statements([notes][113])
+5. [ESLint][116] and [Prettier][117] Set Up ([No-Sweat™ Eslint and Prettier Setup by Wes Bos on github][114]) ([notes][115])
+
+
 
 --
 
@@ -567,4 +578,16 @@ Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Rei
 [104]: https://beginnerjavascript.com/
 [105]: https://twitter.com/tonomoshia/status/1260630015760269318
 [106]: https://twitter.com/tonomoshia/status/1260632480400445440
+[107]: https://www.notion.so/Beginner-JavaScript-e2ef045754d14e96b93791f638bbcaf6
+[108]: https://github.com/geekysrm/javascript-notes
+[109]: https://twitter.com/geekysrm
+[110]: https://github.com/tonomoshia/javascript-notes/blob/master/01-chrome-shortcuts.md
+[111]: https://github.com/tonomoshia/javascript-notes/blob/master/02-running-javascript.md
+[112]: https://github.com/tonomoshia/javascript-notes/blob/master/03-variables-and-statements.md
+[113]: https://github.com/tonomoshia/javascript-notes/blob/master/03-variables-and-statements.md
+[114]: https://github.com/wesbos/eslint-config-wesbos
+[115]: https://github.com/tonomoshia/javascript-notes/blob/master/04-code-quality-tooling.md
+[116]: https://eslint.org/
+[117]: https://prettier.io/
+
 
