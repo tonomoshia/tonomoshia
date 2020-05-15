@@ -462,10 +462,19 @@ In [Beginner Javascript][104] today:
 1. Welcome ([notes][110])
 2. Browser, Editor and Terminal Setup ([notes][111])
 3. Running and Loading JS ([notes][112])
-4. Variables and Statements([notes][113])
+4. Variables and Statements ([notes][113])
 5. [ESLint][116] and [Prettier][117] Set Up ([No-Sweat™ Eslint and Prettier Setup by Wes Bos on github][114]) ([notes][115])
 
+### Day 23 May 14, 2020
 
+In [Beginner Javascript][104] today: 
+
+6. Types - Introductions ([notes][118])
+7. Types - Strings ([notes][119])
+8. Types - Numbers ([notes][120])
+9. Types - Objects ([notes][121])
+10. Types - Null and Undefined ([notes][122])
+11. Types - Booleans and Equality ([notes][123]) 
 
 --
 
@@ -589,5 +598,11 @@ Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Rei
 [115]: https://github.com/tonomoshia/javascript-notes/blob/master/04-code-quality-tooling.md
 [116]: https://eslint.org/
 [117]: https://prettier.io/
+[118]: https://github.com/tonomoshia/javascript-notes/blob/master/05-types-intro.md
+[119]: https://github.com/tonomoshia/javascript-notes/blob/master/06-types-string.md
+[120]: https://github.com/tonomoshia/javascript-notes/blob/master/07-types-number.md
+[121]: https://github.com/tonomoshia/javascript-notes/blob/master/08-types-object.md
+[122]: https://github.com/tonomoshia/javascript-notes/blob/master/09-types-null-undefined.md
+[123]: https://github.com/tonomoshia/javascript-notes/blob/master/10-types-boolean-equality.md
 
 
