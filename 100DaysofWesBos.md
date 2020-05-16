@@ -476,6 +476,9 @@ In [Beginner Javascript][104] today:
 10. Types - Null and Undefined ([notes][122])
 11. Types - Booleans and Equality ([notes][123]) 
 
+I liked Wes Bos' mnemonic device and made a graphic of it with Canva.
+
+![Javascript Types mnemonic device: SNOB 'N US](javascript-types.png)
 
 ### Day 24 05.15.2020
 
