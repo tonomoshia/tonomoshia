@@ -495,6 +495,28 @@ Tomorrow's plan:
 
 ### Day 25 - 05.16.2020
 
+I had a [FocusMate][26] session at 11:30 a.m. with Faisal R. I got through the first lesson with him and then was on my own for the rest.  
+
+In [Beginner Javascript][104] today: 
+
+14. Functions - Parameters and Arguments (parameters are p for possible. arguments are a for actual) ([notes][126])
+
+	###### Pieces of a Function Defined:
+
+	![Pieces of a Function Defined](parameters-arguments.jpg)
+	
+15. Different Ways to Declare Functions ([notes][127])
+	- function keyword
+	- anonymous function
+	- arrow functions (which are anonymous functions)
+	- IIFE: **i**mmediately **i**nvoked **f**unction **e**pressions
+	- methods (functions that live inside an object)
+	
+
+Became patron of [FunFunFunction](https://www.twitch.tv/funfunfunction) on Patreon again after a long hiatus. Joined [FunFunFunction Discord](https://funfun.chat). Discovered [CodingGarden twitch stream](https://www.twitch.tv/codinggarden) as they were hosted on FunFunFunction twitch today. Fun to watch people build something collaboratively.
+
+Saving **Debugging Tools** ([notes][128]) for another day. My ears are tired of headphones! And my brain is tired too. Time to brave the grocery store for weekly provisions in the age of Coronavirus Covid-19. Aldi FTW!
+
 --
 
 Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Reiher](https://elizabethreiher.com)
@@ -625,5 +647,7 @@ Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Rei
 [123]: https://github.com/tonomoshia/javascript-notes/blob/master/10-types-boolean-equality.md
 [124]: https://github.com/tonomoshia/javascript-notes/blob/master/11-functions-built-in.md
 [125]: https://github.com/tonomoshia/javascript-notes/blob/master/12-functions-custom.md
-
+[126]: https://github.com/tonomoshia/javascript-notes/blob/master/13-functions-param-arguments.md
+[127]: https://github.com/tonomoshia/javascript-notes/blob/master/14-different-ways-of-declaring-functions.md
+[128]: https://github.com/tonomoshia/javascript-notes/blob/master/15-debugging.md
 
