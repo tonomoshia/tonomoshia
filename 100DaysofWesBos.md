@@ -422,7 +422,7 @@ Explored today:
 - [Pluralsight Tech Skills Day 2020 Conference held on April 23, 2020][99] ([direct YouTube link][100])
 
 
-### May 11, 2020
+### 05.11.2020
 
 Been on an extended break. My mother came for an unplanned visit and I had no free time between my mom, the kids, my partner and my job. Was quite a full house and schedule. Now I am getting back into it. 
 
@@ -447,7 +447,7 @@ Found out this weekend that [LaunchCode][27] has ceased operations in South Flor
 
 --
 
-### Day 22 May 13, 2020
+### Day 22 05.13.2020
 
 Since LaunchCode South Florida is no more, decided to add Wes Bos' [Beginner JavaScript][104] to my curriculum and skootch it ahead of [ES6.io][5] because I am confused right now and realize I need more JavaScript basics first, even though I've done it befoe elsewhere. I have forgotten more than I know.
 
@@ -465,7 +465,7 @@ In [Beginner Javascript][104] today:
 4. Variables and Statements ([notes][113])
 5. [ESLint][116] and [Prettier][117] Set Up ([No-Sweat™ Eslint and Prettier Setup by Wes Bos on github][114]) ([notes][115])
 
-### Day 23 May 14, 2020
+### Day 23 05.14.2020
 
 In [Beginner Javascript][104] today: 
 
@@ -477,7 +477,7 @@ In [Beginner Javascript][104] today:
 11. Types - Booleans and Equality ([notes][123]) 
 
 
-### Day 24 May 15, 2020
+### Day 24 05.15.2020
 
 In [Beginner Javascript][104] today: 
 
@@ -492,6 +492,8 @@ Tomorrow's plan:
 15. Different Ways to Declare Functions
 16. Debugging Tools
 
+
+### Day 25 - 05.16.2020
 
 --
 
