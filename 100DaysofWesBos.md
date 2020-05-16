@@ -476,6 +476,23 @@ In [Beginner Javascript][104] today:
 10. Types - Null and Undefined ([notes][122])
 11. Types - Booleans and Equality ([notes][123]) 
 
+
+### Day 24 May 15, 2020
+
+In [Beginner Javascript][104] today: 
+
+12. Functions - Built-In ([notes][124])
+13. Functions - Custom ([notes][125])
+
+I've got a [Focusmate][26] session tomorrow so I am planning on doing 2 more videos on functions and one on debugging. After that instead of editing and expanding Soumya Ranjan Mohanty's notes, I will have to start writing my own from scratch.
+
+Tomorrow's plan:
+
+14. Functions - Parameters and Arguments
+15. Different Ways to Declare Functions
+16. Debugging Tools
+
+
 --
 
 Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Reiher](https://elizabethreiher.com)
@@ -604,5 +621,7 @@ Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Rei
 [121]: https://github.com/tonomoshia/javascript-notes/blob/master/08-types-object.md
 [122]: https://github.com/tonomoshia/javascript-notes/blob/master/09-types-null-undefined.md
 [123]: https://github.com/tonomoshia/javascript-notes/blob/master/10-types-boolean-equality.md
+[124]: https://github.com/tonomoshia/javascript-notes/blob/master/11-functions-built-in.md
+[125]: https://github.com/tonomoshia/javascript-notes/blob/master/12-functions-custom.md
 
 
