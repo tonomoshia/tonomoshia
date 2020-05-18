@@ -520,6 +520,13 @@ Became patron of [FunFunFunction](https://www.twitch.tv/funfunfunction) on Patre
 
 Saving **Debugging Tools** ([notes][128]) for another day. My ears are tired of headphones! And my brain is tired too. Time to brave the grocery store for weekly provisions in the age of Coronavirus Covid-19. Aldi FTW!
 
+
+### DAY 26 - 05.18.20
+
+In [Beginner Javascript][104] today: 
+
+16. Debugging Tools - **very** eye-opening foray into the debugging mindset and tools to surgically examine your code to see what it is doing and when it is doing it. ([notes][128])
+
 --
 
 Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Reiher](https://elizabethreiher.com)
