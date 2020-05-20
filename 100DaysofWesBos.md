@@ -533,6 +533,17 @@ In [Beginner Javascript][104] today:
 First half of **Scope**. We got to global variables, function scope and block scope. Here are my [notes][129] so far.
 
 
+
+
+--
+###### Note To Self 05.20.20
+
+I came across this snippet from Wes Bos:
+
+>>There is overlap between the two courses — there is no need to take the ES6 course after this one. If you have already taken ES6, you'll still learn plenty in Beginner JavaScript!
+
+So I can actually skip [ES6.io][5] course if I go all the way through the [Beginner Javascript](https://beginnerjavascript.com/) course because it would be redundant.
+
 --
 
 Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Reiher](https://elizabethreiher.com)
