@@ -521,11 +521,17 @@ Became patron of [FunFunFunction](https://www.twitch.tv/funfunfunction) on Patre
 Saving **Debugging Tools** ([notes][128]) for another day. My ears are tired of headphones! And my brain is tired too. Time to brave the grocery store for weekly provisions in the age of Coronavirus Covid-19. Aldi FTW!
 
 
-### DAY 26 - 05.18.20
+### Day 26 - 05.18.20
 
 In [Beginner Javascript][104] today: 
 
 16. Debugging Tools - **very** eye-opening foray into the debugging mindset and tools to surgically examine your code to see what it is doing and when it is doing it. ([notes][128])
+
+### Day 27 - 05.19.20
+In [Beginner Javascript][104] today: 
+
+First half of **Scope**. We got to global variables, function scope and block scope. Here are my [notes][129] so far.
+
 
 --
 
@@ -660,4 +666,5 @@ Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Rei
 [126]: https://github.com/tonomoshia/javascript-notes/blob/master/13-functions-param-arguments.md
 [127]: https://github.com/tonomoshia/javascript-notes/blob/master/14-different-ways-of-declaring-functions.md
 [128]: https://github.com/tonomoshia/javascript-notes/blob/master/15-debugging.md
+[129]: https://github.com/tonomoshia/javascript-notes/blob/master/16-scope.md
 
