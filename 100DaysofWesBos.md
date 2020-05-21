@@ -533,19 +533,38 @@ In [Beginner Javascript][104] today:
 First half of **Scope**. We got to global variables, function scope and block scope. Here are my [notes][129] so far.
 
 
+### Day 28 05.20.20
+
+In [Beginner Javascript][104] today: 
+
+Second half of **Scope**. We continued learning about the differences in scope for variables declared with `var`, `let` and `const`. Touched on function scoping -- that is scope for a function inside a function.
+
+Continued  and finished my scope [notes][129].
+
+Watched some of [FreeCodeCamp's YouTube JavaScript course][130] for some reinforcement of basic concepts. This is [where I left off](https://youtu.be/PkZNo7MFNFg?t=2037) at 33:57.
+
+
+
+
 
 
 --
-###### Note To Self 05.20.20
+###### Note To Self 05.19.20
 
 I came across this snippet from Wes Bos:
 
 >>There is overlap between the two courses — there is no need to take the ES6 course after this one. If you have already taken ES6, you'll still learn plenty in Beginner JavaScript!
 
-So I can actually skip [ES6.io][5] course if I go all the way through the [Beginner Javascript](https://beginnerjavascript.com/) course because it would be redundant.
+So I can actually skip [ES6.io][5] course *if* I go *all the way* through the [Beginner Javascript](https://beginnerjavascript.com/) course because it would be redundant.
 
 --
+###### Note to Self 05.20.20
+For later reference: 
 
+- [FreeCodeCamp's 5 Hour React YouTube Course][131].
+- Dillinger: Online Markdown Editor][132]
+
+--
 Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Reiher](https://elizabethreiher.com)
 <hr>
 
@@ -678,4 +697,7 @@ Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Rei
 [127]: https://github.com/tonomoshia/javascript-notes/blob/master/14-different-ways-of-declaring-functions.md
 [128]: https://github.com/tonomoshia/javascript-notes/blob/master/15-debugging.md
 [129]: https://github.com/tonomoshia/javascript-notes/blob/master/16-scope.md
+[130]: https://youtu.be/PkZNo7MFNFg
+[131]: https://youtu.be/DLX62G4lc44
+[132]: https://dillinger.io/
 
