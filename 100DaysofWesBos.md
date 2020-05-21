@@ -234,18 +234,18 @@ Videos in [CSSGrid.io][6]:
 
 Videos in [CSSGrid.io][6]:
 
-- 16. Grid Auto Flow Dense Block Fitting 
+- 16. Grid Auto Flow Dense Block Fitting
 - 17. CSS Grid Alignment and Centering
 
 Read [Chapter 7][68] on "Stringing Characters Together" in [LaunchCode][27] JavaScript course.
- 
+
 ### 04.22.2020
 
-Not counting today  . . . because although I did code, I didn't do any Wes Bos. Wi-Fi was spotty at work and I couldn't do the videos on my lunch hour. 
+Not counting today  . . . because although I did code, I didn't do any Wes Bos. Wi-Fi was spotty at work and I couldn't do the videos on my lunch hour.
 
-Had to go shopping for my mom after ork because she is in self-quarantine. 
+Had to go shopping for my mom after ork because she is in self-quarantine.
 
-I did attend two hour class on [LuanchCode][27] JavaScript class. We talked about strings, arrays, functions and loops. 
+I did attend two hour class on [LuanchCode][27] JavaScript class. We talked about strings, arrays, functions and loops.
 
 ### Day 16 - 04.23.2020
 
@@ -254,7 +254,7 @@ Videos in [CSSGrid.io][6]:
 - 18. Re-ordering Grid Items (Caution: using ```order``` property can mess up your webpage's accessibility!)
 - 19. Nesting Grid with Album Layouts
 
-Having some trouble streaming the [CSS Grid][6] videos for some reason, so I switched to [ES6.io][5] to stay productive. 
+Having some trouble streaming the [CSS Grid][6] videos for some reason, so I switched to [ES6.io][5] to stay productive.
 
 Videos in [ES6.io][5]:
 
@@ -263,12 +263,12 @@ Videos in [ES6.io][5]:
 
 Handy time to do this while I am going through the JavaScript overview sessions with [LaunchCode][27].
 
- 
+
 ### Day 17 - 04.24.2020
- 
+
 In [CSSGrid.io][6], we made a **Grid Image Gallery**. Wes just out-of-nowhere added a bunch of ES6 JavaScript to randomly generate an image gallery and to add event listeners and I did not see that coming. So now my JS is leaking into my CSS Grid learning.
 
-I [saw][69] an [interesting implementation of CSS Grid][70]. It does not look boxy like you would expect. 
+I [saw][69] an [interesting implementation of CSS Grid][70]. It does not look boxy like you would expect.
 
 In **let vs. const** video of [ES6.io][5] we learned about the difference between  ```let``` and ```const``` and when you would use each.
 
@@ -278,11 +278,11 @@ In **let vs. const** video of [ES6.io][5] we learned about the difference betwee
 - You could declare a ```let``` variable in window scope and again in function scope and those will be two _separate_ variables.
 - ```const``` variables _cannot be updated_. ```const``` stands for _constant_.
 - Properties of a ```const`` variable _can be_ updated.
-- ```Object.freeze``` will make a ```const`` variable's properties unchangeable. 
+- ```Object.freeze``` will make a ```const`` variable's properties unchangeable.
 
 Stayed home from work today with the youngest one to give the eldest one a day off as he was burnt out on 5-year-old shenanigans.
 
-Have a FocusMate session tomorrow at 11:00 a.m. so I will be doing [LaunchCode][27] JavaScript work then. 
+Have a FocusMate session tomorrow at 11:00 a.m. so I will be doing [LaunchCode][27] JavaScript work then.
 
 Then an exciting viewing of Disney's new-ish movie, Onward Bound.
 
@@ -292,11 +292,11 @@ Focusmate session at 11:00 a.m. working on [LaunchCode][27] JavaScript.
 **Chapter 7: "Stringing Characters Together"**
 
 - [String Mad Lib repl.it][71]
-- String Exercises 
+- String Exercises
 	- [7.9.1][72]
 	- [7.9.2.1][73]
 	- [7.9.2.2][74] (Didn't do all of it.)
-	 
+
 **Chapter 8: Arrays Keep Things in Order**
 
 - Read the chapter.
@@ -320,11 +320,11 @@ Day off
 
 -	replacing the [IIFE][78] (initially invoke function expression). [Block Scope is the new IIFE][84]
 - fix problem with ```for``` loops where variables in ```for``` leak out and become global variables. [Use ```let``` with ```for``` loops][85]
- 
-[**temporal dead zone:**][82]: 
- 
- With ```let``` and ```const``` you cannot access a variable before it is defined. 
- 
+
+[**temporal dead zone:**][82]:
+
+ With ```let``` and ```const``` you cannot access a variable before it is defined.
+
  With ```var``` you can acess the fact that a variable has created but not its value so accessing it will result in ```undefined``` rather than variable has not been defined error.
 
 [**Is ```var``` dead? What should I use?:**][81]
@@ -335,13 +335,13 @@ How Wes goes about it by way of [this blog post by Mathis Bynens][79]:
 2. only use ```let``if rebinding is needed
 3. (var shouldn't be used in ES6)
 
-Another popoular opinion [via Kyle Simpson][80] of You Don't Know JS fame: 
+Another popoular opinion [via Kyle Simpson][80] of You Don't Know JS fame:
 
 1. use ```var``` for top-level variables that are shared across many (especially larger) scopes.
 2. Use ```let``` for localized variables in smaller scopes.
-3. Refactor ```let``` to ```const``` only after some code has been written and you're reasonably sure that you've got a case where there shouldn't be variable reassignment. 
+3. Refactor ```let``` to ```const``` only after some code has been written and you're reasonably sure that you've got a case where there shouldn't be variable reassignment.
 
-So basically these two opinions are diametrically opposed. 
+So basically these two opinions are diametrically opposed.
 
 ### Day 19 - 04.28.2020
 
@@ -383,7 +383,7 @@ More elegantly shown in my [arrow functions repl.it][87]. All four of these retu
 Arrow functions are always _anonymous functions_.
 Benefit of named functions is doing stack trace to find reason for errors.
 
-You can put an arrow function _inside_ a variable and that will make it easier to stack trace. 
+You can put an arrow function _inside_ a variable and that will make it easier to stack trace.
 
 **[More Arrow Function Examples][88]**
 
@@ -396,7 +396,7 @@ You can put an arrow function _inside_ a variable and that will make it easier t
 - [Working Repl.it][91]
 - [Wes' CodePen][92]
 
-He does not want to use arrow function because he wants ```this``` to bind to the box, not the window. Arrow functions bind to the parent scope. 
+He does not want to use arrow function because he wants ```this``` to bind to the box, not the window. Arrow functions bind to the parent scope.
 
 >>when you use an arrow function, the value of ```this``` is not rebound inside of that function. It is just inherited form whatever the parent scope is.
 
@@ -424,23 +424,23 @@ Explored today:
 
 ### 05.11.2020
 
-Been on an extended break. My mother came for an unplanned visit and I had no free time between my mom, the kids, my partner and my job. Was quite a full house and schedule. Now I am getting back into it. 
+Been on an extended break. My mother came for an unplanned visit and I had no free time between my mom, the kids, my partner and my job. Was quite a full house and schedule. Now I am getting back into it.
 
-Learning about building websites with Hugo, as I read something that sparked an interest. Not counting this as part of #100DaysOfWesBos though it would technically be parto fo #100DaysOfCode. 
+Learning about building websites with Hugo, as I read something that sparked an interest. Not counting this as part of #100DaysOfWesBos though it would technically be parto fo #100DaysOfCode.
 
 - [Learning Static Site Building with Hugo][102]
 - [Static Gen: A List of Static Site Generators for JAM Stack Sites][103]
--	Installed Hugo via homebrew on terminal: 
+-	Installed Hugo via homebrew on terminal:
 
 	```brew install hugo```
 
-Spent a couple hours playing with this and then deleted it. It was a nice diversion, but it's time to get back to my path. 
+Spent a couple hours playing with this and then deleted it. It was a nice diversion, but it's time to get back to my path.
 
 --
-Found out this weekend that [LaunchCode][27] has ceased operations in South Florida, so those of us who have not been hired yet for an apprenticeship are no longer going to be connected to jobs. 
->>As we begin to imagine what a post-COVID world looks like, LaunchCode has made the difficult decision to suspend operations in our Florida locations, as economic conditions and hiring challenges created by the pandemic now prevent our sustainable operation in the region. 
+Found out this weekend that [LaunchCode][27] has ceased operations in South Florida, so those of us who have not been hired yet for an apprenticeship are no longer going to be connected to jobs.
+>>As we begin to imagine what a post-COVID world looks like, LaunchCode has made the difficult decision to suspend operations in our Florida locations, as economic conditions and hiring challenges created by the pandemic now prevent our sustainable operation in the region.
 
->>This decision also means LaunchCode will no longer be soliciting new employer partnerships and can no longer commit to connecting you with job opportunities. We are deeply sorry we’re not able to play a more direct role in launching your career. 
+>>This decision also means LaunchCode will no longer be soliciting new employer partnerships and can no longer commit to connecting you with job opportunities. We are deeply sorry we’re not able to play a more direct role in launching your career.
 
 
 . . . which makes you wonder about the landscape those of us left behind. At least my classmates who are working together in GrammerHub are making progress on real projects together so good for them for being smart and sticking with that. I got too overwhelmed to contine that along with work and family.
@@ -457,7 +457,7 @@ So today is [Beginner JavaScript][104] [Day 1][105]. Half price. 28 hours long. 
 
 Some [great notes][107] by [Soumya (@geekysrm)][109] (also on [github][108])
 
-In [Beginner Javascript][104] today: 
+In [Beginner Javascript][104] today:
 
 1. Welcome ([notes][110])
 2. Browser, Editor and Terminal Setup ([notes][111])
@@ -467,14 +467,14 @@ In [Beginner Javascript][104] today:
 
 ### Day 23 05.14.2020
 
-In [Beginner Javascript][104] today: 
+In [Beginner Javascript][104] today:
 
 6. Types - Introductions ([notes][118])
 7. Types - Strings ([notes][119])
 8. Types - Numbers ([notes][120])
 9. Types - Objects ([notes][121])
 10. Types - Null and Undefined ([notes][122])
-11. Types - Booleans and Equality ([notes][123]) 
+11. Types - Booleans and Equality ([notes][123])
 
 I liked Wes Bos' mnemonic device and made a graphic of it with Canva.
 
@@ -482,7 +482,7 @@ I liked Wes Bos' mnemonic device and made a graphic of it with Canva.
 
 ### Day 24 05.15.2020
 
-In [Beginner Javascript][104] today: 
+In [Beginner Javascript][104] today:
 
 12. Functions - Built-In ([notes][124])
 13. Functions - Custom ([notes][125])
@@ -498,23 +498,23 @@ Tomorrow's plan:
 
 ### Day 25 - 05.16.2020
 
-I had a [FocusMate][26] session at 11:30 a.m. with Faisal R. I got through the first lesson with him and then was on my own for the rest.  
+I had a [FocusMate][26] session at 11:30 a.m. with Faisal R. I got through the first lesson with him and then was on my own for the rest.
 
-In [Beginner Javascript][104] today: 
+In [Beginner Javascript][104] today:
 
 14. Functions - Parameters and Arguments (parameters are p for possible. arguments are a for actual) ([notes][126])
 
 	###### Pieces of a Function Defined:
 
 	![Pieces of a Function Defined](parameters-arguments.jpg)
-	
+
 15. Different Ways to Declare Functions ([notes][127])
 	- function keyword
 	- anonymous function
 	- arrow functions (which are anonymous functions)
 	- IIFE: **i**mmediately **i**nvoked **f**unction **e**pressions
 	- methods (functions that live inside an object)
-	
+
 
 Became patron of [FunFunFunction](https://www.twitch.tv/funfunfunction) on Patreon again after a long hiatus. Joined [FunFunFunction Discord](https://funfun.chat). Discovered [CodingGarden twitch stream](https://www.twitch.tv/codinggarden) as they were hosted on FunFunFunction twitch today. Fun to watch people build something collaboratively.
 
@@ -523,19 +523,19 @@ Saving **Debugging Tools** ([notes][128]) for another day. My ears are tired of 
 
 ### Day 26 - 05.18.20
 
-In [Beginner Javascript][104] today: 
+In [Beginner Javascript][104] today:
 
 16. Debugging Tools - **very** eye-opening foray into the debugging mindset and tools to surgically examine your code to see what it is doing and when it is doing it. ([notes][128])
 
 ### Day 27 - 05.19.20
-In [Beginner Javascript][104] today: 
+In [Beginner Javascript][104] today:
 
 First half of **Scope**. We got to global variables, function scope and block scope. Here are my [notes][129] so far.
 
 
 ### Day 28 05.20.20
 
-In [Beginner Javascript][104] today: 
+In [Beginner Javascript][104] today:
 
 Second half of **Scope**. We continued learning about the differences in scope for variables declared with `var`, `let` and `const`. Touched on function scoping -- that is scope for a function inside a function.
 
@@ -559,10 +559,10 @@ So I can actually skip [ES6.io][5] course *if* I go *all the way* through the [B
 
 --
 ###### Note to Self 05.20.20
-For later reference: 
+For later reference:
 
 - [FreeCodeCamp's 5 Hour React YouTube Course][131].
-- Dillinger: Online Markdown Editor][132]
+- [Dillinger: Online Markdown Editor][132]
 
 --
 Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Reiher](https://elizabethreiher.com)
