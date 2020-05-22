@@ -548,6 +548,9 @@ Watched some of [FreeCodeCamp's YouTube JavaScript course][130] for some reinfor
 
 Watched [Todd Albert][135] of [BocaCode][134] do a [Youtube live about Variables, Functions and Arguments][133] during lunch.  
 
+### Day 29 - 05.22.20
+In [Beginner Javascript][104] today: Hoisting of functions and variables ([notes][136]).
+
 
 --
 ###### Note To Self 05.19.20
@@ -704,3 +707,4 @@ Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Rei
 [133]: https://youtu.be/c8oMwgktrwM
 [134]: https://bocacode.com/
 [135]: https://twitter.com/toddalbert
+[136]: https://github.com/tonomoshia/javascript-notes/blob/master/17-hoisting.md
