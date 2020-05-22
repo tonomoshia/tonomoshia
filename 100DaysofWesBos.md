@@ -544,8 +544,9 @@ Continued  and finished my scope [notes][129].
 Watched some of [FreeCodeCamp's YouTube JavaScript course][130] for some reinforcement of basic concepts. This is [where I left off](https://youtu.be/PkZNo7MFNFg?t=2037) at 33:57.
 
 
+### 05.21.20
 
-
+Watched [Todd Albert][135] of [BocaCode][134] do a [Youtube live about Variables, Functions and Arguments][133] during lunch.  
 
 
 --
@@ -700,4 +701,6 @@ Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Rei
 [130]: https://youtu.be/PkZNo7MFNFg
 [131]: https://youtu.be/DLX62G4lc44
 [132]: https://dillinger.io/
-
+[133]: https://youtu.be/c8oMwgktrwM
+[134]: https://bocacode.com/
+[135]: https://twitter.com/toddalbert
