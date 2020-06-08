@@ -551,6 +551,14 @@ Watched [Todd Albert][135] of [BocaCode][134] do a [Youtube live about Variables
 ### Day 29 - 05.22.20
 In [Beginner Javascript][104] today: Hoisting of functions and variables ([notes][136]).
 
+### Day 30 - 06.08.20
+Been on hiatus. Could not focus on code in these trying times. 
+
+\#RIPGeorgeFloyd
+
+Decided to tip my toe back in the water today. 
+
+In [Beginner Javascript][104] today: Closures ([notes][137]).
 
 --
 ###### Note To Self 05.19.20
@@ -708,3 +716,5 @@ Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Rei
 [134]: https://bocacode.com/
 [135]: https://twitter.com/toddalbert
 [136]: https://github.com/tonomoshia/javascript-notes/blob/master/17-hoisting.md
+[137]: https://github.com/tonomoshia/javascript-notes/blob/master/18-closures.md
+
