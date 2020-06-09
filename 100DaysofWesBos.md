@@ -568,6 +568,10 @@ In [Beginner Javascript][104] today:
 - Introduction to the DOM ([notes][138])
 - The DOM - Selecting Items ([notes][138])
 
+![DOM](1200px-DOM-model.svg.png)
+
+
+
 --
 ###### Note To Self 05.19.20
 
