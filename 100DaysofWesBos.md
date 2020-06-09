@@ -560,6 +560,14 @@ Decided to tip my toe back in the water today.
 
 In [Beginner Javascript][104] today: Closures ([notes][137]).
 
+
+### Day 31 - 06.09.20
+
+In [Beginner Javascript][104] today: 
+
+- Introduction to the DOM ([notes][138])
+- The DOM - Selecting Items ([notes][138])
+
 --
 ###### Note To Self 05.19.20
 
@@ -717,4 +725,5 @@ Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Rei
 [135]: https://twitter.com/toddalbert
 [136]: https://github.com/tonomoshia/javascript-notes/blob/master/17-hoisting.md
 [137]: https://github.com/tonomoshia/javascript-notes/blob/master/18-closures.md
+[138]: https://github.com/tonomoshia/javascript-notes/blob/master/19-dom.md
 
