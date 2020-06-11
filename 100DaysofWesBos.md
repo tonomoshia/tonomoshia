@@ -570,7 +570,11 @@ In [Beginner Javascript][104] today:
 
 ![DOM](1200px-DOM-model.svg.png)
 
+### Day 32 - 06.10.20
 
+In [Beginner Javascript][104] today: 
+
+The DOM - Element Properties and Methods ([notes][139])
 
 --
 ###### Note To Self 05.19.20
@@ -730,4 +734,5 @@ Hi from [tonomoshia](https://twitter.com/tonomoshia).<br>(c) 2020 [Elizabeth Rei
 [136]: https://github.com/tonomoshia/javascript-notes/blob/master/17-hoisting.md
 [137]: https://github.com/tonomoshia/javascript-notes/blob/master/18-closures.md
 [138]: https://github.com/tonomoshia/javascript-notes/blob/master/19-dom.md
+[139]: https://github.com/tonomoshia/javascript-notes/blob/master/20-dom-element-properties-methods.md
 
