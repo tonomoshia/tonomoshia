@@ -576,6 +576,31 @@ In [Beginner Javascript][104] today:
 
 The DOM - Element Properties and Methods ([notes][139])
 
+
+### Day 33 - 06.19.20 Juneteenth
+
+I took the day off from work today. It's a bewildering how fast time passes when you take a day off. 
+
+In [Beginner Javascript][104] today: 
+
+- The DOM - Working With Classes
+
+	A lot of JavaScript interaction is just adding and removing CSS classes on media/content.
+- The DOM - Built-In and Custom Data Atrributes
+	Classes, src, alt are all built-in attributes	
+	
+	```pic.alt = 'Cute Pup';``` setter
+
+	```console.log(pic.alt);``` getter
+	
+	If you need a _custom attribute_:
+	Data atrributes allow you to attach metadata. You make them up
+	```data-name```
+	```data-dog```
+	```data-gender```
+	
+	You access them using ``dataset``
+
 --
 ###### Note To Self 05.19.20
 
