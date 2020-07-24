@@ -2,7 +2,9 @@
 
 <h1 align="center">Tonomoshia</h1>
 <p>Hi. I'm <b>Tonomoshia</b>.</p><br>
+<p align="center">
 <img src="https://media.giphy.com/media/9JrkkDoJuU0FbdbUZU/giphy.gif">
+</p>
 <br>
 
 I have learned HTML, CSS, JavaScript, WordPress, Python, C# (all to varying degrees).
