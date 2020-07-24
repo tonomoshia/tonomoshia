@@ -11,6 +11,9 @@ I enjoy interacting with the [WordPress](https://jetpack.pro/profile/tonomoshia/
 
 I help clients bring to life their online presence at [LizWP](https://lizwp.com).
 
+[![Tonomoshia'ss github stats](https://github-readme-stats.vercel.app/api?username=tonomoshia&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <p align="center">
   <a href="https://jetpack.pro/profile/tonomoshia/">WordPress</a> |
