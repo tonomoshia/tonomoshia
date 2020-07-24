@@ -10,10 +10,17 @@ I have learned HTML, CSS, JavaScript, WordPress, Python, C# (all to varying degr
 I enjoy interacting with the [WordPress](https://jetpack.pro/profile/tonomoshia/) community. 
 
 I help clients bring to life their online presence at [LizWP](https://lizwp.com).
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tonomoshia&show_icons=true&theme=dracula" />
+</a>
 
-[![Tonomoshia's github stats](https://github-readme-stats.vercel.app/api?username=tonomoshia&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonomoshia" />
+</a>
+<br>
+<br>
+<br>
 
 <p align="center">
   <a href="https://jetpack.pro/profile/tonomoshia/">WordPress</a> |
