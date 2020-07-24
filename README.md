@@ -11,7 +11,7 @@ I enjoy interacting with the [WordPress](https://jetpack.pro/profile/tonomoshia/
 
 I help clients bring to life their online presence at [LizWP](https://lizwp.com).
 
-[![Tonomoshia's github stats](https://github-readme-stats.vercel.app/api?username=tonomoshia&show_icons=true&theme=dracula)](https://github.com/tonomoshia/github-readme-stats)
+[![Tonomoshia's github stats](https://github-readme-stats.vercel.app/api?username=tonomoshia&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
